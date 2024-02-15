@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="0.409722in" height="0.316in" baseProfile="tiny" version="1.2" y="0in"  x="0in" viewBox="0 0 10.4069 8.0264">
+    <desc >
+        <referenceFile >dc_powersupply.svg</referenceFile>
+    </desc>
+    <g  gorn="0.1" id="schematic">
+        <line x1="3.93347" stroke-linecap="round" stroke-width="0.4064" x2="3.93347"  stroke="#000000" y1="0.2032" class="other" y2="7.8232"/>
+        <line x1="5.20347" stroke-linecap="round" stroke-width="0.4064" x2="5.20347"  stroke="#000000" y1="2.7432" class="other" y2="5.2832"/>
+        <line x1="6.47347" stroke-linecap="round" stroke-width="0.4064" x2="6.47347"  stroke="#000000" y1="0.2032" class="other" y2="7.8232"/>
+        <line x1="7.74347" stroke-linecap="round" stroke-width="0.4064" x2="7.74347"  stroke="#000000" y1="2.7432" class="other" y2="5.2832"/>
+        <line x1="2.66347" stroke-linecap="round" stroke-width="0.1524" x2="3.67947"  stroke="#000000" y1="4.0132" class="other" y2="4.0132"/>
+        <line x1="10.2835" stroke-linecap="round" connectorname="-" stroke-width="0.246944" x2="7.74347"  stroke="#787878" gorn="0.1.5" y1="4.0132" id="connector0pin" class="pin" y2="4.0132"/>
+        <rect width="0.0001" height="0.0001" y="4.0132" stroke-width="0"  stroke="none" gorn="0.1.6" fill="none" x="10.2835" id="connector0terminal" class="terminal"/>
+        <text font-size="0.881944" y="3.64278" stroke-width="0"  font-family="Droid Sans" stroke="none" text-anchor="middle" fill="#8c8c8c" x="9.01347" class="text">1</text>
+        <line x1="0.123472" stroke-linecap="round" connectorname="+" stroke-width="0.246944" x2="2.66347"  stroke="#787878" gorn="0.1.8" y1="4.0132" id="connector1pin" class="pin" y2="4.0132"/>
+        <rect width="0.0001" height="0.0001" y="4.0132" stroke-width="0"  stroke="none" gorn="0.1.9" fill="none" x="0.123472" id="connector1terminal" class="terminal"/>
+        <text font-size="0.881944" y="3.64278" stroke-width="0"  font-family="Droid Sans" stroke="none" text-anchor="middle" fill="#8c8c8c" x="1.39347" class="text">2</text>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Generator: Adobe Illustrator 13.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<svg xmlns="http://www.w3.org/2000/svg"  x="0px" id="Layer_1" gorn="0" version="1.2" xml:space="preserve" baseProfile="tiny" width="2.15376in" height="1.99628in" viewBox="0 0 155.071 143.732" xmlns:xml="http://www.w3.org/XML/1998/namespace" y="0px">
+    <desc>
+        <referenceFile>battery_pack_mounted_500mil_pcb.svg</referenceFile>
+    </desc>
+    <desc >Fritzing footprint SVG</desc>
+    <g  id="silkscreen" gorn="0.1">
+        <line  stroke-width="2" x1="1.004" fill="none" stroke="#FFFFFF" y1="0.79" y2="142.522" x2="1.004"/>
+        <line  stroke-width="2" x1="1.004" fill="none" stroke="#FFFFFF" y1="142.522" y2="142.522" x2="154.076"/>
+        <line  stroke-width="2" x1="154.076" fill="none" stroke="#FFFFFF" y1="142.522" y2="0.79" x2="154.076"/>
+        <line  stroke-width="2" x1="154.076" fill="none" stroke="#FFFFFF" y1="0.79" y2="0.79" x2="1.004"/>
+        <rect  x="5.75" stroke-width="2" fill="none" stroke="#FFFFFF" width="7.2" height="7.2" y="51.19"/>
+        <line  stroke-width="2" x1="17.1" fill="none" stroke="#FFFFFF" y1="18.81" y2="18.81" x2="24.35"/>
+        <line  stroke-width="2" x1="20.725" fill="none" stroke="#FFFFFF" y1="15.185" y2="22.435" x2="20.725"/>
+    </g>
+    <g  id="copper1" gorn="0.2">
+        <g  id="copper0" gorn="0.2.0">
+            <rect  x="7.37" stroke-width="1.6" fill="none" stroke="#FFBF00" width="3.96" height="3.96" y="52.81"/>
+            <circle  id="connector1pin" stroke-width="1.6" gorn="0.2.0.1" fill="none" stroke="#FFBF00" cy="18.81" cx="9.35" r="1.98"/>
+            <circle  id="connector0pin" stroke-width="1.6" gorn="0.2.0.2" fill="none" stroke="#FFBF00" cy="54.81" cx="9.35" r="1.98"/>
+        </g>
+    </g>
+    <g  id="keepout" gorn="0.3"/>
+    <g  id="soldermask" gorn="0.4"/>
+    <g  id="outline" gorn="0.5"/>
+</svg>

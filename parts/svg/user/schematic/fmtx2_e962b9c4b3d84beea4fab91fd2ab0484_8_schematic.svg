@@ -1,0 +1,554 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" y="0in" width="2.1in" gorn="0" id="svg1030"  version="1.2" viewBox="0 0 151.2 43.2" x="0in" height="0.6in">
+    <desc >
+        <referenceFile >Proba9 she.svg</referenceFile>
+    </desc>
+    <defs id="defs1034" />
+    <g gorn="0.2" id="g1028"  partID="58070">
+        <g gorn="0.2.0" id="schematic" >
+            <rect y="0.45" width="150.3" stroke-linecap="round" class="interior rect" stroke="#000000" gorn="0.2.0.0" id="rect584"  stroke-width="0.9" x="0.45" fill="#FFFFFF" height="27.9"/>
+            <line stroke-linecap="round" class="pin" stroke="#787878" x2="43.2" gorn="0.2.0.1" y2="42.8499" id="connector14pin"  stroke-width="0.699999" x1="43.2" fill="none" y1="28.4499"/>
+            <g transform="matrix(1, 0, 0, 1, 42.15, 35.6499)" >
+                <g >
+                    <g gorn="0.2.0.2.0.0" id="g705" >
+                        <g gorn="0.2.0.2.0.0.0" id="g703" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.2.0.0.0.0.0.0" id="g701" >
+                                        <g gorn="0.2.0.2.0.0.0.0.0.0.0" id="g699" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.2.0.0.0.0.0.0.0.0" id="text697"  text-anchor="middle" stroke-width="0" x="0" fill="#8c8c8c" font-size="2.5">15</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 43.8999, 27.05)" >
+                <g >
+                    <g gorn="0.2.0.3.0.0" id="g715" >
+                        <g gorn="0.2.0.3.0.0.0" id="g713" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.3.0.0.0.0.0.0" id="g711" >
+                                        <g gorn="0.2.0.3.0.0.0.0.0.0.0" id="g709" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.3.0.0.0.0.0.0.0.0" id="text707"  text-anchor="start" stroke-width="0" x="0" fill="#8c8c8c" font-size="3.49999">15 CS1</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g y="42.8499" width="0.699999" class="terminal" stroke="none" gorn="0.2.0.4" id="connector14terminal"  stroke-width="0" x="42.8499" fill="none" height="0.699999"/>
+            <line stroke-linecap="round" class="pin" stroke="#787878" x2="50.4" gorn="0.2.0.5" y2="42.8499" id="connector13pin"  stroke-width="0.699999" x1="50.4" fill="none" y1="28.4499"/>
+            <g transform="matrix(1, 0, 0, 1, 49.35, 35.6499)" >
+                <g >
+                    <g gorn="0.2.0.6.0.0" id="g727" >
+                        <g gorn="0.2.0.6.0.0.0" id="g725" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.6.0.0.0.0.0.0" id="g723" >
+                                        <g gorn="0.2.0.6.0.0.0.0.0.0.0" id="g721" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.6.0.0.0.0.0.0.0.0" id="text719"  text-anchor="middle" stroke-width="0" x="0" fill="#8c8c8c" font-size="2.5">14</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 51.0999, 27.05)" >
+                <g >
+                    <g gorn="0.2.0.7.0.0" id="g737" >
+                        <g gorn="0.2.0.7.0.0.0" id="g735" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.7.0.0.0.0.0.0" id="g733" >
+                                        <g gorn="0.2.0.7.0.0.0.0.0.0.0" id="g731" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.7.0.0.0.0.0.0.0.0" id="text729"  text-anchor="start" stroke-width="0" x="0" fill="#8c8c8c" font-size="3.49999">14 DB7</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g y="42.8499" width="0.699999" class="terminal" stroke="none" gorn="0.2.0.8" id="connector13terminal"  stroke-width="0" x="50.0499" fill="none" height="0.699999"/>
+            <line stroke-linecap="round" class="pin" stroke="#787878" x2="57.6" gorn="0.2.0.9" y2="42.8499" id="connector12pin"  stroke-width="0.699999" x1="57.6" fill="none" y1="28.4499"/>
+            <g transform="matrix(1, 0, 0, 1, 56.55, 35.6499)" >
+                <g >
+                    <g gorn="0.2.0.10.0.0" id="g749" >
+                        <g gorn="0.2.0.10.0.0.0" id="g747" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.10.0.0.0.0.0.0" id="g745" >
+                                        <g gorn="0.2.0.10.0.0.0.0.0.0.0" id="g743" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.10.0.0.0.0.0.0.0.0" id="text741"  text-anchor="middle" stroke-width="0" x="0" fill="#8c8c8c" font-size="2.5">13</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 58.2999, 27.05)" >
+                <g >
+                    <g gorn="0.2.0.11.0.0" id="g759" >
+                        <g gorn="0.2.0.11.0.0.0" id="g757" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.11.0.0.0.0.0.0" id="g755" >
+                                        <g gorn="0.2.0.11.0.0.0.0.0.0.0" id="g753" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.11.0.0.0.0.0.0.0.0" id="text751"  text-anchor="start" stroke-width="0" x="0" fill="#8c8c8c" font-size="3.49999">13 DB6</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g y="42.8499" width="0.699999" class="terminal" stroke="none" gorn="0.2.0.12" id="connector12terminal"  stroke-width="0" x="57.2499" fill="none" height="0.699999"/>
+            <line stroke-linecap="round" class="pin" stroke="#787878" x2="64.8" gorn="0.2.0.13" y2="42.8499" id="connector11pin"  stroke-width="0.699999" x1="64.8" fill="none" y1="28.4499"/>
+            <g transform="matrix(1, 0, 0, 1, 63.75, 35.6499)" >
+                <g >
+                    <g gorn="0.2.0.14.0.0" id="g771" >
+                        <g gorn="0.2.0.14.0.0.0" id="g769" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.14.0.0.0.0.0.0" id="g767" >
+                                        <g gorn="0.2.0.14.0.0.0.0.0.0.0" id="g765" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.14.0.0.0.0.0.0.0.0" id="text763"  text-anchor="middle" stroke-width="0" x="0" fill="#8c8c8c" font-size="2.5">12</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 65.4999, 27.05)" >
+                <g >
+                    <g gorn="0.2.0.15.0.0" id="g781" >
+                        <g gorn="0.2.0.15.0.0.0" id="g779" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.15.0.0.0.0.0.0" id="g777" >
+                                        <g gorn="0.2.0.15.0.0.0.0.0.0.0" id="g775" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.15.0.0.0.0.0.0.0.0" id="text773"  text-anchor="start" stroke-width="0" x="0" fill="#8c8c8c" font-size="3.49999">12 DB5</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g y="42.8499" width="0.699999" class="terminal" stroke="none" gorn="0.2.0.16" id="connector11terminal"  stroke-width="0" x="64.4499" fill="none" height="0.699999"/>
+            <line stroke-linecap="round" class="pin" stroke="#787878" x2="72" gorn="0.2.0.17" y2="42.8499" id="connector10pin"  stroke-width="0.699999" x1="72" fill="none" y1="28.4499"/>
+            <g transform="matrix(1, 0, 0, 1, 70.95, 35.6499)" >
+                <g >
+                    <g gorn="0.2.0.18.0.0" id="g793" >
+                        <g gorn="0.2.0.18.0.0.0" id="g791" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.18.0.0.0.0.0.0" id="g789" >
+                                        <g gorn="0.2.0.18.0.0.0.0.0.0.0" id="g787" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.18.0.0.0.0.0.0.0.0" id="text785"  text-anchor="middle" stroke-width="0" x="0" fill="#8c8c8c" font-size="2.5">11</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 72.6999, 27.05)" >
+                <g >
+                    <g gorn="0.2.0.19.0.0" id="g803" >
+                        <g gorn="0.2.0.19.0.0.0" id="g801" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.19.0.0.0.0.0.0" id="g799" >
+                                        <g gorn="0.2.0.19.0.0.0.0.0.0.0" id="g797" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.19.0.0.0.0.0.0.0.0" id="text795"  text-anchor="start" stroke-width="0" x="0" fill="#8c8c8c" font-size="3.49999">11 DB4</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g y="42.8499" width="0.699999" class="terminal" stroke="none" gorn="0.2.0.20" id="connector10terminal"  stroke-width="0" x="71.6499" fill="none" height="0.699999"/>
+            <line stroke-linecap="round" class="pin" stroke="#787878" x2="79.2" gorn="0.2.0.21" y2="42.8499" id="connector9pin"  stroke-width="0.699999" x1="79.2" fill="none" y1="28.4499"/>
+            <g transform="matrix(1, 0, 0, 1, 78.15, 35.6499)" >
+                <g >
+                    <g gorn="0.2.0.22.0.0" id="g815" >
+                        <g gorn="0.2.0.22.0.0.0" id="g813" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.22.0.0.0.0.0.0" id="g811" >
+                                        <g gorn="0.2.0.22.0.0.0.0.0.0.0" id="g809" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.22.0.0.0.0.0.0.0.0" id="text807"  text-anchor="middle" stroke-width="0" x="0" fill="#8c8c8c" font-size="2.5">10</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 79.8999, 27.05)" >
+                <g >
+                    <g gorn="0.2.0.23.0.0" id="g825" >
+                        <g gorn="0.2.0.23.0.0.0" id="g823" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.23.0.0.0.0.0.0" id="g821" >
+                                        <g gorn="0.2.0.23.0.0.0.0.0.0.0" id="g819" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.23.0.0.0.0.0.0.0.0" id="text817"  text-anchor="start" stroke-width="0" x="0" fill="#8c8c8c" font-size="3.49999">10 DB3</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g y="42.8499" width="0.699999" class="terminal" stroke="none" gorn="0.2.0.24" id="connector9terminal"  stroke-width="0" x="78.8499" fill="none" height="0.699999"/>
+            <line stroke-linecap="round" class="pin" stroke="#787878" x2="86.4" gorn="0.2.0.25" y2="42.8499" id="connector8pin"  stroke-width="0.699999" x1="86.4" fill="none" y1="28.4499"/>
+            <g transform="matrix(1, 0, 0, 1, 85.35, 35.6499)" >
+                <g >
+                    <g gorn="0.2.0.26.0.0" id="g837" >
+                        <g gorn="0.2.0.26.0.0.0" id="g835" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.26.0.0.0.0.0.0" id="g833" >
+                                        <g gorn="0.2.0.26.0.0.0.0.0.0.0" id="g831" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.26.0.0.0.0.0.0.0.0" id="text829"  text-anchor="middle" stroke-width="0" x="0" fill="#8c8c8c" font-size="2.5">9</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 87.0999, 27.05)" >
+                <g >
+                    <g gorn="0.2.0.27.0.0" id="g847" >
+                        <g gorn="0.2.0.27.0.0.0" id="g845" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.27.0.0.0.0.0.0" id="g843" >
+                                        <g gorn="0.2.0.27.0.0.0.0.0.0.0" id="g841" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.27.0.0.0.0.0.0.0.0" id="text839"  text-anchor="start" stroke-width="0" x="0" fill="#8c8c8c" font-size="3.49999">9 BD2</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g y="42.8499" width="0.699999" class="terminal" stroke="none" gorn="0.2.0.28" id="connector8terminal"  stroke-width="0" x="86.0499" fill="none" height="0.699999"/>
+            <line stroke-linecap="round" class="pin" stroke="#787878" x2="93.6" gorn="0.2.0.29" y2="42.8499" id="connector7pin"  stroke-width="0.699999" x1="93.6" fill="none" y1="28.4499"/>
+            <g transform="matrix(1, 0, 0, 1, 92.55, 35.6499)" >
+                <g >
+                    <g gorn="0.2.0.30.0.0" id="g859" >
+                        <g gorn="0.2.0.30.0.0.0" id="g857" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.30.0.0.0.0.0.0" id="g855" >
+                                        <g gorn="0.2.0.30.0.0.0.0.0.0.0" id="g853" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.30.0.0.0.0.0.0.0.0" id="text851"  text-anchor="middle" stroke-width="0" x="0" fill="#8c8c8c" font-size="2.5">8</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 94.2999, 27.05)" >
+                <g >
+                    <g gorn="0.2.0.31.0.0" id="g869" >
+                        <g gorn="0.2.0.31.0.0.0" id="g867" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.31.0.0.0.0.0.0" id="g865" >
+                                        <g gorn="0.2.0.31.0.0.0.0.0.0.0" id="g863" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.31.0.0.0.0.0.0.0.0" id="text861"  text-anchor="start" stroke-width="0" x="0" fill="#8c8c8c" font-size="3.49999">8 DB1</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g y="42.8499" width="0.699999" class="terminal" stroke="none" gorn="0.2.0.32" id="connector7terminal"  stroke-width="0" x="93.2499" fill="none" height="0.699999"/>
+            <line stroke-linecap="round" class="pin" stroke="#787878" x2="100.8" gorn="0.2.0.33" y2="42.8499" id="connector6pin"  stroke-width="0.699999" x1="100.8" fill="none" y1="28.4499"/>
+            <g transform="matrix(1, 0, 0, 1, 99.75, 35.6499)" >
+                <g >
+                    <g gorn="0.2.0.34.0.0" id="g881" >
+                        <g gorn="0.2.0.34.0.0.0" id="g879" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.34.0.0.0.0.0.0" id="g877" >
+                                        <g gorn="0.2.0.34.0.0.0.0.0.0.0" id="g875" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.34.0.0.0.0.0.0.0.0" id="text873"  text-anchor="middle" stroke-width="0" x="0" fill="#8c8c8c" font-size="2.5">7</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 101.5, 27.05)" >
+                <g >
+                    <g gorn="0.2.0.35.0.0" id="g891" >
+                        <g gorn="0.2.0.35.0.0.0" id="g889" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.35.0.0.0.0.0.0" id="g887" >
+                                        <g gorn="0.2.0.35.0.0.0.0.0.0.0" id="g885" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.35.0.0.0.0.0.0.0.0" id="text883"  text-anchor="start" stroke-width="0" x="0" fill="#8c8c8c" font-size="3.49999">7 DB0</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g y="42.8499" width="0.699999" class="terminal" stroke="none" gorn="0.2.0.36" id="connector6terminal"  stroke-width="0" x="100.45" fill="none" height="0.699999"/>
+            <line stroke-linecap="round" class="pin" stroke="#787878" x2="108" gorn="0.2.0.37" y2="42.8499" id="connector5pin"  stroke-width="0.699999" x1="108" fill="none" y1="28.4499"/>
+            <g transform="matrix(1, 0, 0, 1, 106.95, 35.6499)" >
+                <g >
+                    <g gorn="0.2.0.38.0.0" id="g903" >
+                        <g gorn="0.2.0.38.0.0.0" id="g901" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.38.0.0.0.0.0.0" id="g899" >
+                                        <g gorn="0.2.0.38.0.0.0.0.0.0.0" id="g897" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.38.0.0.0.0.0.0.0.0" id="text895"  text-anchor="middle" stroke-width="0" x="0" fill="#8c8c8c" font-size="2.5">6</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 108.7, 27.05)" >
+                <g >
+                    <g gorn="0.2.0.39.0.0" id="g913" >
+                        <g gorn="0.2.0.39.0.0.0" id="g911" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.39.0.0.0.0.0.0" id="g909" >
+                                        <g gorn="0.2.0.39.0.0.0.0.0.0.0" id="g907" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.39.0.0.0.0.0.0.0.0" id="text905"  text-anchor="start" stroke-width="0" x="0" fill="#8c8c8c" font-size="3.49999">6 Enable</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g y="42.8499" width="0.699999" class="terminal" stroke="none" gorn="0.2.0.40" id="connector5terminal"  stroke-width="0" x="107.65" fill="none" height="0.699999"/>
+            <line stroke-linecap="round" class="pin" stroke="#787878" x2="115.2" gorn="0.2.0.41" y2="42.8499" id="connector4pin"  stroke-width="0.699999" x1="115.2" fill="none" y1="28.4499"/>
+            <g transform="matrix(1, 0, 0, 1, 114.15, 35.6499)" >
+                <g >
+                    <g gorn="0.2.0.42.0.0" id="g925" >
+                        <g gorn="0.2.0.42.0.0.0" id="g923" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.42.0.0.0.0.0.0" id="g921" >
+                                        <g gorn="0.2.0.42.0.0.0.0.0.0.0" id="g919" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.42.0.0.0.0.0.0.0.0" id="text917"  text-anchor="middle" stroke-width="0" x="0" fill="#8c8c8c" font-size="2.5">5</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 115.9, 27.05)" >
+                <g >
+                    <g gorn="0.2.0.43.0.0" id="g935" >
+                        <g gorn="0.2.0.43.0.0.0" id="g933" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.43.0.0.0.0.0.0" id="g931" >
+                                        <g gorn="0.2.0.43.0.0.0.0.0.0.0" id="g929" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.43.0.0.0.0.0.0.0.0" id="text927"  text-anchor="start" stroke-width="0" x="0" fill="#8c8c8c" font-size="3.49999">5 R/W</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g y="42.8499" width="0.699999" class="terminal" stroke="none" gorn="0.2.0.44" id="connector4terminal"  stroke-width="0" x="114.85" fill="none" height="0.699999"/>
+            <line stroke-linecap="round" class="pin" stroke="#787878" x2="122.4" gorn="0.2.0.45" y2="42.8499" id="connector3pin"  stroke-width="0.699999" x1="122.4" fill="none" y1="28.4499"/>
+            <g transform="matrix(1, 0, 0, 1, 121.35, 35.6499)" >
+                <g >
+                    <g gorn="0.2.0.46.0.0" id="g947" >
+                        <g gorn="0.2.0.46.0.0.0" id="g945" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.46.0.0.0.0.0.0" id="g943" >
+                                        <g gorn="0.2.0.46.0.0.0.0.0.0.0" id="g941" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.46.0.0.0.0.0.0.0.0" id="text939"  text-anchor="middle" stroke-width="0" x="0" fill="#8c8c8c" font-size="2.5">4</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 123.1, 27.05)" >
+                <g >
+                    <g gorn="0.2.0.47.0.0" id="g957" >
+                        <g gorn="0.2.0.47.0.0.0" id="g955" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.47.0.0.0.0.0.0" id="g953" >
+                                        <g gorn="0.2.0.47.0.0.0.0.0.0.0" id="g951" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.47.0.0.0.0.0.0.0.0" id="text949"  text-anchor="start" stroke-width="0" x="0" fill="#8c8c8c" font-size="3.49999">4 D/I</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g y="42.8499" width="0.699999" class="terminal" stroke="none" gorn="0.2.0.48" id="connector3terminal"  stroke-width="0" x="122.05" fill="none" height="0.699999"/>
+            <line stroke-linecap="round" class="pin" stroke="#787878" x2="129.6" gorn="0.2.0.49" y2="42.8499" id="connector2pin"  stroke-width="0.699999" x1="129.6" fill="none" y1="28.4499"/>
+            <g transform="matrix(1, 0, 0, 1, 128.55, 35.6499)" >
+                <g >
+                    <g gorn="0.2.0.50.0.0" id="g969" >
+                        <g gorn="0.2.0.50.0.0.0" id="g967" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.50.0.0.0.0.0.0" id="g965" >
+                                        <g gorn="0.2.0.50.0.0.0.0.0.0.0" id="g963" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.50.0.0.0.0.0.0.0.0" id="text961"  text-anchor="middle" stroke-width="0" x="0" fill="#8c8c8c" font-size="2.5">3</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 130.3, 27.05)" >
+                <g >
+                    <g gorn="0.2.0.51.0.0" id="g979" >
+                        <g gorn="0.2.0.51.0.0.0" id="g977" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.51.0.0.0.0.0.0" id="g975" >
+                                        <g gorn="0.2.0.51.0.0.0.0.0.0.0" id="g973" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.51.0.0.0.0.0.0.0.0" id="text971"  text-anchor="start" stroke-width="0" x="0" fill="#8c8c8c" font-size="3.49999">3 Vo</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g y="42.8499" width="0.699999" class="terminal" stroke="none" gorn="0.2.0.52" id="connector2terminal"  stroke-width="0" x="129.25" fill="none" height="0.699999"/>
+            <line stroke-linecap="round" class="pin" stroke="#787878" x2="136.8" gorn="0.2.0.53" y2="42.8499" id="connector1pin"  stroke-width="0.699999" x1="136.8" fill="none" y1="28.4499"/>
+            <g transform="matrix(1, 0, 0, 1, 135.75, 35.6499)" >
+                <g >
+                    <g gorn="0.2.0.54.0.0" id="g991" >
+                        <g gorn="0.2.0.54.0.0.0" id="g989" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.54.0.0.0.0.0.0" id="g987" >
+                                        <g gorn="0.2.0.54.0.0.0.0.0.0.0" id="g985" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.54.0.0.0.0.0.0.0.0" id="text983"  text-anchor="middle" stroke-width="0" x="0" fill="#8c8c8c" font-size="2.5">2</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 137.5, 27.05)" >
+                <g >
+                    <g gorn="0.2.0.55.0.0" id="g1001" >
+                        <g gorn="0.2.0.55.0.0.0" id="g999" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.55.0.0.0.0.0.0" id="g997" >
+                                        <g gorn="0.2.0.55.0.0.0.0.0.0.0" id="g995" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.55.0.0.0.0.0.0.0.0" id="text993"  text-anchor="start" stroke-width="0" x="0" fill="#8c8c8c" font-size="3.49999">2 Vdd</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g y="42.8499" width="0.699999" class="terminal" stroke="none" gorn="0.2.0.56" id="connector1terminal"  stroke-width="0" x="136.45" fill="none" height="0.699999"/>
+            <line stroke-linecap="round" class="pin" stroke="#787878" x2="144" gorn="0.2.0.57" y2="42.8499" id="connector0pin"  stroke-width="0.699999" x1="144" fill="none" y1="28.4499"/>
+            <g transform="matrix(1, 0, 0, 1, 142.95, 35.6499)" >
+                <g >
+                    <g gorn="0.2.0.58.0.0" id="g1013" >
+                        <g gorn="0.2.0.58.0.0.0" id="g1011" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.58.0.0.0.0.0.0" id="g1009" >
+                                        <g gorn="0.2.0.58.0.0.0.0.0.0.0" id="g1007" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.58.0.0.0.0.0.0.0.0" id="text1005"  text-anchor="middle" stroke-width="0" x="0" fill="#8c8c8c" font-size="2.5">1</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 144.7, 27.05)" >
+                <g >
+                    <g gorn="0.2.0.59.0.0" id="g1023" >
+                        <g gorn="0.2.0.59.0.0.0" id="g1021" >
+                            <g transform="rotate(270)" >
+                                <g >
+                                    <g gorn="0.2.0.59.0.0.0.0.0.0" id="g1019" >
+                                        <g gorn="0.2.0.59.0.0.0.0.0.0.0" id="g1017" >
+                                            <text y="0" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.59.0.0.0.0.0.0.0.0" id="text1015"  text-anchor="start" stroke-width="0" x="0" fill="#8c8c8c" font-size="3.49999">1 Vss</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g y="42.8499" width="0.699999" class="terminal" stroke="none" gorn="0.2.0.60" id="connector0terminal"  stroke-width="0" x="143.65" fill="none" height="0.699999"/>
+            <text y="12.5833" font-family="Droid Sans" class="text" stroke="none" gorn="0.2.0.61" id="label"  text-anchor="middle" stroke-width="0" x="76.0501" fill="#000000" font-size="4.25001">128 x 64 Graphic LCD</text>
+        </g>
+    </g>
+</svg>

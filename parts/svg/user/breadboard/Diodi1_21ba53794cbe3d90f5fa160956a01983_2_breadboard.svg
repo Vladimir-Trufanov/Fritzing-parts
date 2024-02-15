@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" gorn="0" version="1.1" height="0.1484236in" y="0px" viewBox="0 0 30.445343 10.686499"  id="Layer_1" width="0.42285189in">
+    <desc >
+        <referenceFile >diode-breadboard1.svg</referenceFile>
+    </desc>
+    <defs  id="defs164"/>
+    <g gorn="0.2"  id="g3028">
+        <rect x="0.92343724" gorn="0.2.0" height="1" y="9.253231" style="fill:none;fill-opacity:1" fill="none"  id="connector0pin" width="1"/>
+        <rect x="26.14234" gorn="0.2.1" height="1" y="2.5829999" fill="none"  id="connector1pin" width="1"/>
+        <line y2="3.6300001" stroke-linecap="round" stroke-width="2.094" x2="29.39834" gorn="0.2.2" y1="3.6300001" stroke="#8c8c8c" fill="none"  id="connector1leg" x1="28.351339"/>
+        <rect x="2.6603405" gorn="0.2.3" height="2.0940001" y="2.5829999" fill="#8c8c8c"  id="rect7" width="25.691"/>
+        <g  transform="translate(0.56634033)">
+            <g >
+                <g gorn="0.2.4.0.0"  id="g158">
+                    <path gorn="0.2.4.0.0.0" d="M 9.159,0 H 7.002 c -0.475,0 -0.393,7.193 0,7.193 h 2.157 c 0.396,0 11.114,0 11.508,0 h 2.158 C 23.34,7.193 23.383,0 22.825,0 H 20.667 C 20.27,0 9.553,0 9.159,0 Z" fill="#1a1a1a"  id="Body_1_"/>
+                    <rect x="9.783" enable-background="new    " gorn="0.2.4.0.0.1" height="7.1929998" opacity="0.74" y="0" fill="#ffffff"  id="rect16" width="1.992"/>
+                    <path enable-background="new    " gorn="0.2.4.0.0.2" opacity="0.4" d="m 7.289,0.358 c 0.726,0 1.145,0 1.866,0 0.719,0 10.786,0 11.508,0 0.021,0 0.229,0 0.479,0 0.563,0 1.066,0 1.311,0 0.354,0 1.146,0.36 -0.354,0.36 -1.08,0 -0.726,0 -1.438,0 -0.717,0 -10.791,0 -11.508,0 -0.723,0 -1.145,0 -1.866,0 -0.356,0.001 -0.714,-0.36 0.002,-0.36 z" fill="#ffffff"  id="Reflex_1_"/>
+                    <path enable-background="new    " gorn="0.2.4.0.0.3" opacity="0.4" d="m 22.822,7.194 c -0.727,0.014 -1.438,0 -2.156,0 -0.902,0 -12.942,0 -13.667,0 -0.091,0 -0.202,-0.723 -0.182,-0.723 1.293,0 1.613,0 2.336,0 0.723,0 10.789,0 11.509,0 0.721,0 1.67,0 2.393,0 0.021,0 -0.086,0.721 -0.233,0.723 z"  id="Shaddow_1_"/>
+                </g>
+            </g>
+        </g>
+        <g stroke-width="0.75" xmlns:xml="http://www.w3.org/XML/1998/namespace" font-size="3.2" gorn="0.2.5" style="font-weight:bold;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA Bold';" xml:space="preserve" fill="#ff00ff"  id="text721">
+            <text x="16.927282" stroke-width="0.75" font-size="3.2" gorn="0.2.5.0" y="4.6251125" fill="#ff00ff"  id="tspan719">P</text>
+        </g>
+        <rect x="2.9575553" stroke-width="0.411024" gorn="0.2.6" height="5.2229161" style="fill-rule:evenodd;stroke-dasharray:none;stop-color:#000000" y="3.9329188" stroke="#0000ff" fill="#ff00ff"  id="rect868" width="0.15731676"/>
+        <rect x="0.25170678" stroke-width="0.411024" gorn="0.2.7" height="1.5102408" style="fill-rule:evenodd;stroke-dasharray:none;stop-color:#000000" y="8.8726645" stroke="#0000ff" fill="#0000ff"  id="rect1424" width="2.8631651"/>
+        <line y2="9.6395006" stroke-linecap="round" stroke-width="2.094" x2="2.0940001" gorn="0.2.8" y1="9.6395006" stroke="#8c8c8c" fill="none"  id="connector0leg" x1="1.0470001"/>
+    </g>
+</svg>

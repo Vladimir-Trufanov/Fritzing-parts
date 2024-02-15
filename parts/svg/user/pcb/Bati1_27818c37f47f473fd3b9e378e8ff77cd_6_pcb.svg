@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" height="0.472441in" version="1.2" viewBox="0 0 45.3898 12" width="1.787in"  x="0in" baseProfile="tiny" y="0in">
+    <desc>
+        <referenceFile>sparkfun-electromechanical_battery-aaa_pcb.svg</referenceFile>
+    </desc>
+    <g gorn="0.0"  id="copper1">
+        <circle stroke="#F7BD13" stroke-width="0.254" gorn="0.0.0" cx="8.7249"  r="0.9779" connectorname="PWR@2" fill="none" cy="10.73" id="connector3pad"/>
+        <circle stroke="#F7BD13" stroke-width="0.254" gorn="0.0.1" cx="1.1049"  r="0.9779" connectorname="PWR@1" fill="none" cy="10.73" id="connector1pad"/>
+        <circle stroke="#F7BD13" stroke-width="0.254" gorn="0.0.2" cx="36.6649"  r="0.9779" connectorname="GND@2" fill="none" cy="10.73" id="connector2pad"/>
+        <circle stroke="#F7BD13" stroke-width="0.254" gorn="0.0.3" cx="44.2849"  r="0.9779" connectorname="GND@1" fill="none" cy="10.73" id="connector0pad"/>
+        <g gorn="0.0.4"  id="copper0">
+            <circle stroke="#F7BD13" stroke-width="0.254" gorn="0.0.4.0" cx="8.7249"  r="0.9779" connectorname="PWR@2" fill="none" cy="10.73" id="connector3pad"/>
+            <circle stroke="#F7BD13" stroke-width="0.254" gorn="0.0.4.1" cx="1.1049"  r="0.9779" connectorname="PWR@1" fill="none" cy="10.73" id="connector1pad"/>
+            <circle stroke="#F7BD13" stroke-width="0.254" gorn="0.0.4.2" cx="36.6649"  r="0.9779" connectorname="GND@2" fill="none" cy="10.73" id="connector2pad"/>
+            <circle stroke="#F7BD13" stroke-width="0.254" gorn="0.0.4.3" cx="44.2849"  r="0.9779" connectorname="GND@1" fill="none" cy="10.73" id="connector0pad"/>
+        </g>
+    </g>
+    <g gorn="0.1"  id="silkscreen">
+        <text class="text" text-anchor="start" font-family="OCRA" stroke="none" stroke-width="0"  fill="#f0f0f0" x="11.2649" font-size="3.302" y="12">+</text>
+        <text class="text" text-anchor="start" font-family="OCRA" stroke="none" stroke-width="0"  fill="#f0f0f0" x="31.5849" font-size="3.302" y="12">-</text>
+    </g>
+</svg>

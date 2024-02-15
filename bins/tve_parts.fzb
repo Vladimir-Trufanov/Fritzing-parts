@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.9b.2021-09-22.CD-348-0-f0af53a9" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="SmallElectrolyticCapacitorModuleID" modelIndex="5614" path="C:/Program Files/Fritzing/fritzing-parts/core/capacitor_electrolytic_small.fzp">
+            <property name="capacitance5mm" value="0.1nF"/>
+            <property name="capacitance7.5mm" value="10nF"/>
+            <property name="capacitance10mm" value="2.2µF"/>
+            <property name="capacitance15mm" value="4.7µF"/>
+            <property name="capacitance22.5mm" value="10µF"/>
+            <property name="capacitance27.5mm" value="22µF"/>
+            <property name="capacitance37.5mm" value="100nF"/>
+            <property name="capacitance" value="1µF"/>
+            <property name="voltageHigh" value="35V"/>
+            <property name="voltage" value="35V"/>
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Pro-Mini3.3V" modelIndex="85416806" path="C:/Program Files/Fritzing/fritzing-parts/core/Arduino-Pro-Mini_3.3v-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_Uno_Rev3(fix)" modelIndex="5697" path="C:/Program Files/Fritzing/fritzing-parts/core/arduino_Uno_Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LCD-FM-RX-V20_4996e13e68e7d8af8083c97fc2196d25_1" modelIndex="85416883" path="C:/Users/Евгеньевич/Documents/Fritzing/parts/user/LCD-FM-RX-V20_4996e13e68e7d8af8083c97fc2196d25_1.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
