@@ -6,6 +6,4 @@
 
 Так и возник один общий каталог для работы во Fritzing на всех моих компьютерах ***Fritzing-parts***.
 
-### [Представление детали (компонента) во Fritzing](Part-file-format/Part-file-format.md)
-
 ### [Что я знаю про Fritzing](Fritzing-WhatdoIknow.md)
