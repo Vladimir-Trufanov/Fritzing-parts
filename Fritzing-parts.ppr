@@ -18,60 +18,54 @@ Extensions=*.*
 [Project tree]
 Fritzing-parts
 	+Fritzing-parts
-		-all
-			-part
-			-svg
-				-breadboard
-				-icon
-				-pcb
-				-schematic
+		-Fritzing-WhatdoIknow
+			Fritzing-WhatdoIknow\Fritzing-WhatdoIknow.md
 		-make-fzpz
 			-7z
 				make-fzpz\7z\7z.exe
-			-examples
-				-fil
-					make-fzpz\examples\fil\LCD-FM-RX-V2.0.fzpz
-					make-fzpz\examples\fil\LCD-FM-RX-V2.0_breadboard.jpg
-					make-fzpz\examples\fil\part.LCD-FM-RX-V2.0_52aa9f163650adf1bd33aebd1592fa04_1.fzp
-					make-fzpz\examples\fil\svg.breadboard.LCD-FM-RX-V2.0_52aa9f163650adf1bd33aebd1592fa04_1_breadboard.svg
-					make-fzpz\examples\fil\svg.icon.LCD-FM-RX-V2.0_52aa9f163650adf1bd33aebd1592fa04_1_icon.svg
-					make-fzpz\examples\fil\svg.pcb.LCD-FM-RX-V2.0_52aa9f163650adf1bd33aebd1592fa04_1_pcb.svg
-					make-fzpz\examples\fil\svg.schematic.LCD-FM-RX-V2.0_52aa9f163650adf1bd33aebd1592fa04_1_schematic.svg
-				-part
-					make-fzpz\examples\part\USB-TTL-Serial-Cable.fzp
-				-svg
-					-breadboard
-						make-fzpz\examples\svg\breadboard\USB-TTL-Serial-Cable_breadboard.svg
-					-icon
-						make-fzpz\examples\svg\icon\USB-TTL-Serial-Cable_icon.svg
-					-pcb
-						make-fzpz\examples\svg\pcb\USB-TTL-Serial-Cable_pcb.svg
-					-schematic
-						make-fzpz\examples\svg\schematic\USB-TTL-Serial-Cable_schematic.svg
-				make-fzpz\examples\7z.exe
-				make-fzpz\examples\make-fzpz.bat
-				make-fzpz\examples\primer-ispolzovaniya-make-fzpz.md
-				make-fzpz\examples\USB TTL Serial Cable.fzpzOld
 			make-fzpz\fil.txt
 			make-fzpz\make-fzpz.bat
+			make-fzpz\make-fzpz.md
 			make-fzpz\make-fzpz.ps1
-			make-fzpz\README.md
-			make-fzpz\README.md.backup
-		+Part-file-format
-			Part-file-format\LCD-FM-RX-V2.0.xml
-			Part-file-format\Part-file-format.md
-			Part-file-format\Part-file-format.md.backup
 		-Projects
 			Projects\A Simulator for Fritzing.pdf
 			Projects\arduino-sim800l-fritzing.fzz
 			Projects\ElectroCookieBoards.fzz
-		-tve_parts
+		+tve_parts
+			-fil
+			+fzbres
+				tve_parts\fzbres\my_parts.fzb
+				tve_parts\fzbres\tve_parts.fzb
 			-images
+				tve_parts\images\Battery3AA-A.jpg
 				tve_parts\images\CP2102-USB-UART.jpg
-				tve_parts\images\USB converer CP2102.jpg
+				tve_parts\images\IRFZ24N.jpg
+				tve_parts\images\LCD-FM-RX-V2.0.jpg
+				tve_parts\images\USB converter CP2102.jpg
 				tve_parts\images\USB TTL Serial Cable.jpg
 				tve_parts\images\USB-TTL_UART.jpg
+			-Новая деталь
+				-part
+					tve_parts\Новая деталь\part\Battery3AA-A.fzp
+				-svg
+					-breadboard
+						tve_parts\Новая деталь\svg\breadboard\Battery3AA-A_breadboard.svg
+					-icon
+						tve_parts\Новая деталь\svg\icon\Battery3AA-A_icon.svg
+					-pcb
+						tve_parts\Новая деталь\svg\pcb\Battery3AA-A_pcb.svg
+					-schematic
+						tve_parts\Новая деталь\svg\schematic\Battery3AA-A_schematic.svg
+				tve_parts\Новая деталь\7z.exe
+				tve_parts\Новая деталь\Battery3AA-A.fzpz
+				tve_parts\Новая деталь\make-fzpz.bat
+			tve_parts\Battery3AA-A.fzpz
 			tve_parts\CP2102 USB UART.fzpz
+			tve_parts\IRFZ24N.fzpz
+			tve_parts\LCD-FM-RX-V2.0.fzpz
+			tve_parts\rabochie-komponenty-dlya-fritzing-tve-parts.md
+			tve_parts\rabochie-komponenty-dlya-fritzing-tve-parts.md.backup
+			tve_parts\tve_parts.png
 			tve_parts\USB converter CP2102.fzpz
 			tve_parts\USB TTL Serial Cable.fzpz
 			tve_parts\USB-TTL UART.fzpz
@@ -92,29 +86,15 @@ Fritzing-parts
 				tve_parts_old\schematic\Arduino Nano 33 BLE Sense_eda45fc9f7d0d652bcb7f998b926ad90_3_schematic.svg
 				tve_parts_old\schematic\LCD-FM-RX-V20_4996e13e68e7d8af8083c97fc2196d25_1_schematic.svg
 				tve_parts_old\schematic\USB-TTL_UART_schematic.svg
-			tve_parts_old\part.Battery3AAA_5f30ae4af89db6339fc29479a059daf3_5.fzp
-			tve_parts_old\svg.icon.Battery3AAA_5f30ae4af89db6339fc29479a059daf3_5_icon.svg
-			tve_parts_old\svg.pcb.Battery3AAA_5f30ae4af89db6339fc29479a059daf3_5_pcb.svg
-			tve_parts_old\svg.schematic.Battery3AAA_5f30ae4af89db6339fc29479a059daf3_5_schematic.svg
 		Fritzing-parts.ppr
-		Fritzing-WhatdoIknow.md
-		Fritzing-WhatdoIknow.md.backup
 		LICENSE
 		README.md
-		Untitled Sketch.fzz
+		README.md.backup
 [Open project files]
-0=Новый1.txt
-1=Part-file-format\LCD-FM-RX-V2.0.xml
-2=make-fzpz\examples\fil\part.LCD-FM-RX-V2.0_52aa9f163650adf1bd33aebd1592fa04_1.fzp
+0=tve_parts\fzbres\tve_parts.fzb
 [Selected Project Files]
 Main=
-Selected=Part-file-format\LCD-FM-RX-V2.0.xml
-[Новый1.txt]
-TopLine=1
-Caret=1,1
-[Part-file-format\LCD-FM-RX-V2.0.xml]
-TopLine=253
-Caret=1,291
-[make-fzpz\examples\fil\part.LCD-FM-RX-V2.0_52aa9f163650adf1bd33aebd1592fa04_1.fzp]
-TopLine=1
-Caret=2,270
+Selected=tve_parts\fzbres\tve_parts.fzb
+[tve_parts\fzbres\tve_parts.fzb]
+TopLine=5
+Caret=84,14
