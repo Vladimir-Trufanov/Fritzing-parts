@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" gorn="0" height="0.31674296in" id="svg997" version="1.2" viewBox="0 0 10.406934 8.0452707" width="0.40972334in" x="0in"  y="0in">
+    <desc >
+        <referenceFile >Battery3aaa-schema.svg</referenceFile>
+    </desc>
+    <defs id="defs1001" />
+    <g gorn="0.2" id="schema" >
+        <line class="other" gorn="0.2.0" id="line978" stroke="#000000" stroke-linecap="round" stroke-width="0.4064" x1="3.9334509" x2="3.9334509"  y1="0.22207007" y2="7.8420701"/>
+        <line class="other" gorn="0.2.1" id="line980" stroke="#000000" stroke-linecap="round" stroke-width="0.4064" x1="4.7034516" x2="4.7034516"  y1="2.7620702" y2="5.3020697"/>
+        <line class="other" gorn="0.2.2" id="line980-1" stroke="#000000" stroke-linecap="round" stroke-width="0.4064" x1="6.2493477" x2="6.2493477"  y1="2.7373888" y2="5.2773871"/>
+        <line class="other" gorn="0.2.3" id="line982" stroke="#000000" stroke-linecap="round" stroke-width="0.4064" x1="6.9734507" x2="6.9734507"  y1="0.22207007" y2="7.8420701"/>
+        <line class="other" gorn="0.2.4" id="line982-3" stroke="#000000" stroke-linecap="round" stroke-width="0.4064" x1="5.4802227" x2="5.4802227"  y1="0.2032" y2="7.8231959"/>
+        <line class="other" gorn="0.2.5" id="line984" stroke="#000000" stroke-linecap="round" stroke-width="0.4064" x1="7.7434511" x2="7.7434511"  y1="2.7620702" y2="5.3020697"/>
+        <line class="other" gorn="0.2.6" id="line986" stroke="#000000" stroke-linecap="round" stroke-width="0.1524" x1="2.663451" x2="3.679451"  y1="4.0320697" y2="4.0320697"/>
+        <line class="pin" connectorname="-" gorn="0.2.7" id="connector0pin" stroke="#787878" stroke-linecap="round" stroke-width="0.246944" x1="10.283481" x2="7.7434511"  y1="4.0320697" y2="4.0320697"/>
+        <rect class="terminal" fill="none" height="9.9999997e-05" stroke="none" stroke-width="0" width="9.9999997e-05" x="10.283481"  y="4.0320697"/>
+        <g class="text" fill="#8c8c8c" font-family="Droid Sans" font-size="0.248903" gorn="0.2.9" id="text990" stroke="none" stroke-width="0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#0000ff;stroke:none;stroke-width:0" text-anchor="middle" >
+            <text gorn="0.2.9.0" id="tspan1768" x="8.5134487"  y="3.7616501">-</text>
+        </g>
+        <line class="pin" connectorname="+" gorn="0.2.10" id="connector1pin" stroke="#787878" stroke-linecap="round" stroke-width="0.246944" x1="0.12345287" x2="2.663451"  y1="4.0320697" y2="4.0320697"/>
+        <rect class="terminal" fill="none" height="9.9999997e-05" stroke="none" stroke-width="0" width="9.9999997e-05" x="0.12345287"  y="4.0320697"/>
+        <g class="text" fill="#8c8c8c" font-family="Droid Sans" font-size="0.248903" gorn="0.2.12" id="text994" stroke="none" stroke-width="0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#ff0000;stroke:none;stroke-width:0" text-anchor="middle" >
+            <text gorn="0.2.12.0" id="tspan1766" x="3.19345"  y="3.86165">+</text>
+        </g>
+    </g>
+</svg>
