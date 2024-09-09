@@ -7,6 +7,4 @@
 
 ### [Bat-файл сборки компонента Fritzing - make-fzpz](make-fzpz/make-fzpz.md)
 
-### [Рабочие компоненты для Fritzing - tve_parts](tve_parts/rabochie-komponenty-dlya-fritzing-tve-parts.md)
-
 ### [Что я знаю про Fritzing](Fritzing-WhatdoIknow/Fritzing-WhatdoIknow.md)
