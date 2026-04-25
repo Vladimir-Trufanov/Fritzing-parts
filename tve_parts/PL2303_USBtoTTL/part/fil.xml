@@ -18,7 +18,7 @@
     &lt;/head>
     &lt;body style="font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;">
     &lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">
-      ÐŸÑ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð°Ñ‚Ð¾Ñ€ Ð´Ð»Ñ Arduino PL2303_USBtoTTL
+      Ïðîãðàììàòîð äëÿ Arduino PL2303_USBtoTTL
     &lt;/p>
     &lt;/body>
     &lt;/html>
@@ -72,11 +72,27 @@
   </views>
  
   <connectors>
-    <connector id="connector0" name="+5V" type="male">
-    <description>+5V</description>
+    <connector id="connector1" name="+" type="male">
+    <description>+</description>
     <views>
       <breadboardView>
         <p layer="breadboard" svgId="connector0pin" terminalId="connector0terminal"/>
+      </breadboardView>
+      <schematicView>
+        <p layer="schematic" svgId="connector1pin" terminalId="connector1terminal"/>
+      </schematicView>
+      <pcbView>
+        <p layer="copper0" svgId="connector1pad"/>
+        <p layer="copper1" svgId="connector1pad"/>
+      </pcbView>
+    </views>
+    </connector>
+    
+    <connector id="connector0" name="-" type="male">
+    <description>-</description>
+    <views>
+      <breadboardView>
+        <p layer="breadboard" svgId="connector1pin" terminalId="connector1terminal"/>
       </breadboardView>
       <schematicView>
         <p layer="schematic" svgId="connector0pin" terminalId="connector0terminal"/>
@@ -86,38 +102,6 @@
         <p layer="copper1" svgId="connector0pad"/>
       </pcbView>
     </views>
-    </connector>
-    
-    <connector id="connector1" name="GND" type="male">
-    <description>GND</description>
-    <views>
-      <breadboardView>
-        <p layer="breadboard" svgId="connector1pin"/>
-      </breadboardView>
-      <schematicView>
-        <p layer="schematic"  svgId="connector1pin"/>
-      </schematicView>
-      <pcbView>
-        <p layer="copper0" svgId="connector1pad"/>
-        <p layer="copper1" svgId="connector1pad"/>
-      </pcbView>
-    </views>
-    </connector>
-    
-    <connector id="connector2" name="RXD" type="male">
-    <description>RXD</description>
-    <views>
-      <breadboardView>
-        <p layer="breadboard" svgId="connector2pin"/>
-      </breadboardView>
-      <schematicView>
-        <p layer="schematic"  svgId="connector2pin"/>
-      </schematicView>
-      <pcbView>
-        <p layer="copper0" svgId="connector0pad"/>
-        <p layer="copper1" svgId="connector0pad"/>
-      </pcbView>
-    </views>
-    </connector>
-  </connectors>
+  </connector>
 </module>
+

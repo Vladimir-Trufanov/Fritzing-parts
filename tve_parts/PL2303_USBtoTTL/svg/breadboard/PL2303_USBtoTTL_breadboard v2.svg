@@ -7,7 +7,7 @@
    gorn="0"
    height="56.722954"
    id="svg13574"
-   sodipodi:docname="PL2303_USBtoTTL_breadboard v1.svg"
+   sodipodi:docname="PL2303_USBtoTTL_breadboard v2.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -1454,8 +1454,8 @@
   </metadata>
   <rect
      width="181.44705"
-     x="8.2363777"
-     y="-2.1540291e-08"
+     x="10.753473"
+     y="9.9239367e-07"
      fill="#165c7a"
      gorn="0.3.0.0.0"
      rx="2.3529963"
@@ -1498,7 +1498,7 @@
      style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
      id="path14122"
      stroke-width="2.25"
-     d="m 18.819829,18.839197 a 2.25,2.25 0 1 1 0,-4.5 2.25,2.25 0 0 1 0,4.5 z" />
+     d="m 19.134465,14.748918 a 2.25,2.25 0 1 1 0,-4.5 2.25,2.25 0 0 1 0,4.5 z" />
   <path
      stroke-opacity="1"
      fill="none"
@@ -1507,7 +1507,7 @@
      style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
      id="path14124"
      stroke-width="2.25"
-     d="m 18.819829,27.839195 a 2.25,2.25 0 1 1 0,-4.5 2.25,2.25 0 0 1 0,4.5 z" />
+     d="m 19.134466,23.434279 a 2.25,2.25 0 1 1 0,-4.5 2.25,2.25 0 0 1 0,4.5 z" />
   <path
      stroke-opacity="1"
      fill="none"
@@ -1516,7 +1516,16 @@
      style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
      id="path14126"
      stroke-width="2.25"
-     d="m 18.819829,36.839195 a 2.25,2.25 0 1 1 0,-4.5 2.25,2.25 0 0 1 0,4.5 z" />
+     d="m 18.819829,32.119643 a 2.25,2.25 0 1 1 0,-4.5 2.25,2.25 0 0 1 0,4.5 z" />
+  <path
+     stroke-opacity="1"
+     fill="none"
+     gorn="0.3.0.0.4"
+     stroke="#b9b9b9"
+     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path14126-4"
+     stroke-width="2.25"
+     d="m 18.487178,49.300752 a 2.25,2.25 0 1 1 0,-4.5 2.25,2.25 0 0 1 0,4.5 z" />
   <path
      stroke-opacity="1"
      fill="none"
@@ -1525,9 +1534,9 @@
      style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
      id="path14128"
      stroke-width="2.25"
-     d="m 18.819829,45.839195 a 2.25,2.25 0 1 1 0,-4.5 2.25,2.25 0 0 1 0,4.5 z" />
+     d="m 18.505192,40.805006 a 2.25,2.25 0 1 1 0,-4.5 2.25,2.25 0 0 1 0,4.5 z" />
   <g
-     transform="rotate(90,-2.5850076,2.5850077)"
+     transform="rotate(90,-0.22523144,0.53986827)"
      id="g4">
     <g
        id="g3">
@@ -1545,7 +1554,7 @@
     </g>
   </g>
   <g
-     transform="rotate(90,-2.5850076,2.5850077)"
+     transform="rotate(90,-4.7874659,4.4728283)"
      id="g6">
     <g
        id="g5">
@@ -1563,25 +1572,25 @@
     </g>
   </g>
   <g
-     transform="rotate(90,-2.5850076,2.5850077)"
-     id="g8">
+     transform="rotate(90,-0.21257127,0.38169028)"
+     id="g6-9">
     <g
-       id="g7">
+       id="g5-7">
       <rect
          width="2.7"
-         x="28.069191"
+         x="19.069202"
          y="-20.169765"
          fill="#f1d083"
-         gorn="0.3.0.0.8.0.0"
+         gorn="0.3.0.0.7.0.0"
          height="2.7"
          stroke="none"
          style="display:inline"
          fill-opacity="1"
-         id="connector3pin" />
+         id="connector2pin-3" />
     </g>
   </g>
   <g
-     transform="rotate(90,-2.5850076,2.5850077)"
+     transform="rotate(90,-4.4728284,3.8435553)"
      id="g10">
     <g
        id="g9">
@@ -1599,7 +1608,25 @@
     </g>
   </g>
   <g
-     transform="translate(12.519765,5.7891855)"
+     transform="rotate(90,-0.23102015,-0.08544358)"
+     id="g10-7">
+    <g
+       id="g9-0">
+      <rect
+         width="2.7"
+         x="37.069172"
+         y="-20.169765"
+         fill="#f1d083"
+         gorn="0.3.0.0.9.0.0"
+         height="2.7"
+         stroke="none"
+         style="display:inline"
+         fill-opacity="1"
+         id="connector4pin-4" />
+    </g>
+  </g>
+  <g
+     transform="translate(12.205128,36.308959)"
      id="g12">
     <g
        id="g11">
@@ -1616,15 +1643,17 @@
    x="9.8999996"
    y="12.6"
    gorn="0.3.0.0.10.0.0.0"
-   style="font-size:5px;fill:#ffffff"
-   id="tspan32526">VCCIO</text>
+   style="font-size:5px;fill:#ffffff;-inkscape-font-specification:'OCRA, Normal';font-family:OCRA;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan32526"><tspan
+     sodipodi:role="line"
+     id="tspan1">+5V</tspan></text>
                         </g>
     </g>
   </g>
   <g
      gorn="0.3.0.0.11"
      id="g3885"
-     transform="translate(1.5106964e-7,5.1700153)">
+     transform="translate(0.62927382,19.014036)">
     <text
        x="22.419765"
        y="22.21417"
@@ -1637,7 +1666,7 @@
        font-size="5px">GND</text>
   </g>
   <g
-     transform="translate(12.519765,5.7891855)"
+     transform="translate(13.463676,-6.1670143)"
      id="g14">
     <g
        id="g13">
@@ -1654,13 +1683,40 @@
    x="9.8999996"
    y="30.6"
    gorn="0.3.0.0.12.0.0.0"
-   style="font-size:5px;fill:#ffffff"
-   id="tspan32534">TXD &lt;--</text>
+   style="font-size:5px;fill:#ffffff;-inkscape-font-specification:'OCRA, Normal';font-family:OCRA;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan32534"><tspan
+     sodipodi:role="line"
+     id="tspan3">TXD</tspan></text>
                         </g>
     </g>
   </g>
   <g
-     transform="translate(12.519765,5.7891855)"
+     transform="translate(13.310642,-15.509832)"
+     id="g14-0">
+    <g
+       id="g13-9">
+      <g
+         fill="#000000"
+         gorn="0.3.0.0.12.0.0"
+         stroke="none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:OCRA;-inkscape-font-specification:OCRA;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start"
+         fill-opacity="1"
+         id="text32532-8"
+         xml:space="preserve"
+         font-size="10px">
+                            <text
+   x="9.8999996"
+   y="30.6"
+   gorn="0.3.0.0.12.0.0.0"
+   style="font-size:5px;fill:#ffffff;-inkscape-font-specification:'OCRA, Normal';font-family:OCRA;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan32534-5"><tspan
+     sodipodi:role="line"
+     id="tspan4">3V3</tspan></text>
+                        </g>
+    </g>
+  </g>
+  <g
+     transform="translate(13.463675,-6.481651)"
      id="g16">
     <g
        id="g15">
@@ -1677,8 +1733,10 @@
    x="9.8999996"
    y="39.595001"
    gorn="0.3.0.0.13.0.0.0"
-   style="font-size:5px;fill:#ffffff"
-   id="tspan32538">RXD --&gt;</text>
+   style="font-size:5px;fill:#ffffff;-inkscape-font-specification:'OCRA, Normal';font-family:OCRA;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan32538"><tspan
+     sodipodi:role="line"
+     id="tspan2">RXD</tspan></text>
                         </g>
     </g>
   </g>
@@ -1790,7 +1848,7 @@
     </g>
   </g>
   <g
-     transform="translate(23.986554,32.923175)"
+     transform="matrix(0.9780794,0,0,1.0030426,22.853529,29.408349)"
      id="g18-3">
     <g
        id="g17-6">
@@ -1825,7 +1883,7 @@
     </g>
   </g>
   <g
-     transform="translate(23.381861,2.7139772)"
+     transform="translate(23.381861,3.6578877)"
      id="g20">
     <g
        id="g19">
@@ -1860,7 +1918,7 @@
     </g>
   </g>
   <g
-     transform="translate(23.766492,10.233229)"
+     transform="translate(23.451855,12.435687)"
      id="g22">
     <g
        id="g21">
@@ -1903,7 +1961,7 @@
     </g>
   </g>
   <g
-     transform="translate(23.451855,25.734721)"
+     transform="translate(23.137218,21.329805)"
      id="g24">
     <g
        id="g23">
@@ -2690,24 +2748,6 @@
           </g>
         </g>
       </g>
-    </g>
-  </g>
-  <g
-     transform="rotate(90,-2.5850076,2.5850077)"
-     id="g59">
-    <g
-       id="g58">
-      <rect
-         width="2.7"
-         x="19.069202"
-         y="-20.169765"
-         fill="#f1d083"
-         gorn="0.3.0.0.7.0.0"
-         height="2.7"
-         stroke="none"
-         style="display:inline"
-         fill-opacity="1"
-         id="rect58" />
     </g>
   </g>
 </svg>
