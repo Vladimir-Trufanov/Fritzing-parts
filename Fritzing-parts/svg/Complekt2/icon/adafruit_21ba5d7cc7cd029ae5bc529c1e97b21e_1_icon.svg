@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" width="1.41732in" version="1.2" x="0px" xmlns:xml="http://www.w3.org/XML/1998/namespace" y="0px" height="2.36222in" id="svg13574" gorn="0"  viewBox="0 0 102.047 170.08" xml:space="preserve">
+    <desc >
+        <referenceFile >2000.svg</referenceFile>
+    </desc>
+    <g transform="translate(0,-656.35975)" >
+        <g >
+            <g >
+                <g id="layer1" gorn="0.1.0.0.0" />
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0,-54)" >
+        <g >
+            <g >
+                <g id="layer2" gorn="0.2.0.0.0" />
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0,-54)" >
+        <g >
+            <g >
+                <g id="layer3" gorn="0.3.0.0.0" />
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0,-54)" >
+        <g >
+            <g >
+                <g id="layer4" gorn="0.4.0.0.0" />
+            </g>
+        </g>
+    </g>
+    <g >
+        <path d="M0,26.587h102.047v141.392c0,1.16-1.066,2.101-2.381,2.101H2.381c-1.315,0-2.381-0.94-2.381-2.101V26.587z" id="rect2997_8_" gorn="0.5.0"  fill="#E6E6E6"/>
+        <rect width="9.06" x="3.15" y="26.586" height="137.564"  fill="#F3F3F3"/>
+        <path d="M99.666,170.079c1.315,0,2.381-0.94,2.381-2.101v-0.864h-3.15V26.587h-9.06v140.528H0v0.864c0,1.16,1.066,2.101,2.381,2.101h97.285V170.079z"  fill="#ADADAD"/>
+        <path d="M102.047,30.755H0V2.236C0,1.001,1.001,0,2.236,0H99.81c1.235,0,2.236,1.001,2.236,2.236L102.047,30.755L102.047,30.755z"  fill="#FFCC00"/>
+        <rect width="9.06" x="89.837" height="30.755"  fill="#C09900"/>
+        <rect width="9.06" x="3.15" y="0.001" height="30.755"  fill="#FFE680"/>
+        <g id="tspan3851_12_" gorn="0.5.6" >
+            <g transform="matrix(0 1 -1 0 45.9375 58.8106)" >
+                <g >
+                    <g >
+                        <text font-family="OCRA"  font-size="12" fill="#808080">2000mAh</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

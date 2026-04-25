@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" width="1.41732in" version="1.2" x="0px" xmlns:xml="http://www.w3.org/XML/1998/namespace" y="0px" height="4.45478in" id="svg13574" gorn="0"  viewBox="0 0 102.047 320.744" xml:space="preserve">
+    <desc >
+        <referenceFile >2000.svg</referenceFile>
+    </desc>
+    <g transform="translate(0,-656.35975)" >
+        <g >
+            <g >
+                <g id="layer1" gorn="0.1.0.0.0" />
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0,-54)" >
+        <g >
+            <g >
+                <g id="layer2" gorn="0.2.0.0.0" />
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0,-54)" >
+        <g >
+            <g >
+                <g id="layer3" gorn="0.3.0.0.0" />
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0,-54)" >
+        <g >
+            <g >
+                <g id="layer4" gorn="0.4.0.0.0" />
+            </g>
+        </g>
+    </g>
+    <g >
+        <path d="M47.424,154.335V20.409" stroke="#CB1717" stroke-width="3.6" stroke-linejoin="round" id="path3821_17_" gorn="0.5.0"  fill="none"/>
+        <path d="M54.624,154.335V20.409" stroke="#202020" stroke-width="3.6" stroke-linejoin="round" id="path3815_17_" gorn="0.5.1"  fill="none"/>
+        <path d="M46.361,151.335l0.142-129.688" stroke="#E58B8B" stroke-width="0.5669" stroke-linecap="round" stroke-linejoin="round" id="path3821_16_" gorn="0.5.2"  fill="none"/>
+        <path d="M53.702,151.335V21.647" stroke="#909090" stroke-width="0.5669" stroke-linecap="round" stroke-linejoin="round" id="path3815_16_" gorn="0.5.3"  fill="none"/>
+        <rect width="5.669" x="44.589" height="5.669" id="connector1pin" gorn="0.5.4"  fill="none"/>
+        <rect width="5.669" x="51.789" height="5.669" id="connector2pin" gorn="0.5.5"  fill="none"/>
+        <polygon stroke="#C8C8C8" stroke-width="0.5669" points="58.11,14.74 58.11,2.835 43.937,2.835 43.937,14.74 42.52,20.409 43.937,20.409 58.11,20.409 59.528,20.409 " stroke-linecap="round" stroke-linejoin="round"  stroke-miterlimit="10" fill="#EAEAEA"/>
+        <polygon points="49.252,20.126 49.961,20.126 49.961,3.402 49.252,4.11 "  fill="#C8C8C8"/>
+        <polygon points="52.087,20.126 52.512,20.126 52.512,3.827 52.087,3.402 "  fill="#FFFFFF"/>
+        <path d="M0,177.252h102.047v141.392c0,1.16-1.066,2.101-2.381,2.101H2.381c-1.315,0-2.381-0.94-2.381-2.101V177.252z" id="rect2997_8_" gorn="0.5.9"  fill="#E6E6E6"/>
+        <g transform="matrix(-1 -2.790625e-11 2.790625e-11 -1 15.3596 492.0672)" >
+            <g >
+                <g >
+                    <rect width="9.06" x="3.15" y="177.252" height="137.564"  fill="#F3F3F3"/>
+                </g>
+            </g>
+        </g>
+        <path d="M99.666,320.744c1.315,0,2.381-0.94,2.381-2.101v-0.864h-3.15V177.252h-9.06V317.78H0v0.864c0,1.16,1.066,2.101,2.381,2.101H99.666z"  fill="#ADADAD"/>
+        <path d="M102.047,181.42H0v-28.519c0-1.235,1.001-2.236,2.236-2.236h97.574c1.235,0,2.236,1.001,2.236,2.236V181.42z"  fill="#FFCC00"/>
+        <rect width="9.06" x="89.837" y="150.665" height="30.755"  fill="#C09900"/>
+        <g transform="matrix(-1 -2.860879e-11 2.860879e-11 -1 15.3596 332.0857)" >
+            <g >
+                <g >
+                    <rect width="9.06" x="3.15" y="150.665" height="30.755"  fill="#FFE680"/>
+                </g>
+            </g>
+        </g>
+        <g id="tspan3851_12_" gorn="0.5.15" >
+            <g transform="matrix(0 1 -1 0 45.9368 209.4756)" >
+                <g >
+                    <g >
+                        <text font-family="OCRA"  font-size="12" fill="#808080">2000mAh</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

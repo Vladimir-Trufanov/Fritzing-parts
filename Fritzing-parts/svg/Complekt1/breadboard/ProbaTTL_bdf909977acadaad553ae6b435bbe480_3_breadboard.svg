@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" height="15.3mm" viewBox="0 0 45 15.3" width="45mm" id="svg12" gorn="0" version="1.1" >
+    <desc >
+        <referenceFile >ProbaTTL.svg</referenceFile>
+    </desc>
+    <defs id="defs9" />
+    <g id="layer1" gorn="0.2" >
+        <rect height="8.2241039" stroke-width="0.264583" fill="#000000" width="15.198144" id="rect46" style="fill-rule:evenodd;" gorn="0.2.0" y="3.3554342" x="4.868669" />
+        <rect height="13.750702" stroke-width="0.264583" fill="#000000" width="5.2634263" id="rect48" style="fill-rule:evenodd;" gorn="0.2.1" y="0.78951395" x="38.949352" />
+        <circle cx="1.3421354" cy="1.7368923" stroke-width="0.354835" fill="#ff00ff" r="0.75" id="connector0pin" style="fill-rule:evenodd;" gorn="0.2.2" />
+        <circle cx="1.3421354" cy="13.711187" stroke-width="0.301609" fill="#ff00ff" r="0.75" id="connector2pin" style="fill-rule:evenodd;" gorn="0.2.3" />
+        <circle cx="1.3421354" cy="8.1187973" stroke-width="0.354835" fill="#ff00ff" r="0.75" id="connector1pin" style="fill-rule:evenodd;" gorn="0.2.4" />
+        <g transform="scale(0.89382702,1.1187847)" >
+            <g >
+                <g >
+                    <g xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke-width="0.264837" fill="#000000" id="text7209" font-size="0.797258" stroke="none" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" gorn="0.2.5.0.0.0"  xml:space="preserve" fill-opacity="1">
+                        <text stroke-width="0.264837" id="tspan7207" font-size="0.797258" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" gorn="0.2.5.0.0.0.0" y="8.233037" x="24.254612" >ProbaTTL</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

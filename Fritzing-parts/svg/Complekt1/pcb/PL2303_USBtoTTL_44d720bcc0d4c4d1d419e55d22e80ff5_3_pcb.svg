@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="45.006916" version="1.1"  gorn="0" id="svg4364" height="12.833397">
+    <desc >
+        <referenceFile >svg.pcb.PCF8563_RTC_Breakout__8b7e93e6b2702acead1__pcb__71c08b57e3a2a12c4206e092937c2c18.svg</referenceFile>
+    </desc>
+    <defs  id="defs4366"/>
+    <metadata  id="metadata4369">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g transform="translate(-0.33327708,-1039.1952)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g style="display:inline"  gorn="0.3.0.0.0.0.0.0.0.0.0.0" id="layer1"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(-0.33327708,-0.33322826)" >
+        <g >
+            <g  gorn="0.4.0.0" id="copper1">
+                <g  gorn="0.4.0.0.0" id="copper0">
+                    <path style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;display:inline" stroke-opacity="1" d="m 11.25,4.5 a 2.25,2.25 0 0 1 -4.5,0 2.25,2.25 0 1 1 4.5,0 z" stroke-width="1.79999995"  gorn="0.4.0.0.0.0" fill="none" id="connector1pin" stroke="#f6ca34"/>
+                    <path style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;display:inline" stroke-opacity="1" d="m 20.25,4.5 a 2.25,2.25 0 0 1 -4.5,0 2.25,2.25 0 1 1 4.5,0 z" stroke-width="1.79999995"  gorn="0.4.0.0.0.1" fill="none" id="connector2pin" stroke="#f6ca34"/>
+                    <path style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;display:inline" stroke-opacity="1" d="m 29.25,4.5 a 2.25,2.25 0 0 1 -4.5,0 2.25,2.25 0 1 1 4.5,0 z" stroke-width="1.79999995"  gorn="0.4.0.0.0.2" fill="none" id="connector3pin" stroke="#f6ca34"/>
+                    <path style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;display:inline" stroke-opacity="1" d="m 38.25,4.5 a 2.25,2.25 0 0 1 -4.5,0 2.25,2.25 0 1 1 4.5,0 z" stroke-width="1.79999995"  gorn="0.4.0.0.0.3" fill="none" id="connector4pin" stroke="#f6ca34"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(-0.33327708,-0.33322826)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g  gorn="0.5.0.0.0.0.0.0.0.0.0.0" id="silkscreen">
+                                                <g  gorn="0.5.0.0.0.0.0.0.0.0.0.0.0" id="g3150">
+                                                    <g transform="translate(0,-11.8004)" >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;font-family:OCRA;-inkscape-font-specification:OCRA" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" font-size="8" xml:space="preserve" fill="#000000" id="text8757" stroke="none">
+                                                                                                <g style="font-size:4px;fill:#ffffff;fill-opacity:1"  gorn="0.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" id="tspan8759">
+                                                                                                    <text style="font-size:3.5px" x="9" y="22.950001"  gorn="0.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" id="tspan12480">VCCIO</text>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <g transform="translate(0,-23.0004)" >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;font-family:OCRA;-inkscape-font-specification:OCRA" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.5.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0" font-size="8" xml:space="preserve" fill="#000000" id="text8761" stroke="none">
+                                                                                                <g style="font-size:4px;fill:#ffffff;fill-opacity:1"  gorn="0.5.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0" id="tspan8763">
+                                                                                                    <text style="font-size:3.5px" x="18" y="34.200001"  gorn="0.5.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0" id="tspan12478">GND</text>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <g transform="translate(0,-11.8002)" >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;font-family:OCRA;-inkscape-font-specification:OCRA" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.5.0.0.0.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0" font-size="8" xml:space="preserve" fill="#000000" id="text8765" stroke="none">
+                                                                                                <g style="font-size:4px;fill:#ffffff;fill-opacity:1"  gorn="0.5.0.0.0.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0" id="tspan8767">
+                                                                                                    <text style="font-size:3.5px" x="27" y="22.950001"  gorn="0.5.0.0.0.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0" id="tspan12476">TXD</text>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <rect style="stroke-miterlimit:4;stroke-dasharray:none" stroke-opacity="1" x="0.44056129" stroke-width="0.21456844" y="0.44051248" width="44.792347"  gorn="0.5.0.0.0.0.0.0.0.0.0.0.0.3" fill="none" id="rect8769" height="12.618829" stroke="#ffffff"/>
+                                                    <g transform="translate(27,-11.8004)" >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;font-family:OCRA;-inkscape-font-specification:OCRA" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.5.0.0.0.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0" font-size="8" xml:space="preserve" fill="#000000" id="g6732" stroke="none">
+                                                                                                <g style="font-size:4px;fill:#ffffff;fill-opacity:1"  gorn="0.5.0.0.0.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0.0" id="text6734">
+                                                                                                    <text style="font-size:3.5px" x="9" y="22.950001"  gorn="0.5.0.0.0.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0.0.0" id="tspan12474">RXD</text>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

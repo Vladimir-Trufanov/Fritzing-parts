@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" gorn="0" xml:space="preserve" width="1.84547in" version="1.2" xmlns:xml="http://www.w3.org/XML/1998/namespace" x="0px" baseProfile="tiny" y="0px"  viewBox="0 0 132.874 159.449" id="svg5926" height="2.21457in">
+    <desc >
+        <referenceFile >500.svg</referenceFile>
+    </desc>
+    <defs />
+    <polygon gorn="0.2" fill="none"  points="0,-159.449 0,-159.449 0,-159.449 " id="rect10582"/>
+    <g transform="translate(4.5036986e-6,-4.3232422e-5)" >
+        <g >
+            <g >
+                <g gorn="0.3.0.0.0"  id="text10512"/>
+            </g>
+        </g>
+    </g>
+    <polygon gorn="0.4" fill="#8DD35F" stroke-linejoin="round"  stroke="#000000" stroke-width="3.0118" points="0,0 0,0 0,0 " fill-opacity="0" id="rect32729"/>
+    <g gorn="0.5"  id="schematic">
+        <path gorn="0.5.0" fill="none" d="M26.575,53.15V26.575"  stroke="#000000" stroke-width="3" id="path10461"/>
+        <rect gorn="0.5.1" width="7.087" fill="none" x="23.032" y="23.032"  id="connector1pin" height="7.087"/>
+        <path gorn="0.5.2" fill="none" d="M26.575,132.874v-26.575"  stroke="#000000" stroke-width="3" id="path10453"/>
+        <rect gorn="0.5.3" width="7.087" fill="none" x="23.031" y="129.331"  id="connector2pin" height="7.087"/>
+        <g gorn="0.5.4"  id="tspan4621">
+            <g transform="matrix(1 0 0 1 53.1496 74.4094)" >
+                <g >
+                    <g >
+                        <text font-size="11.2" gorn="0.5.4.0.0.0.0"  font-family="DroidSans" id="tspan88499">LiPoly</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g gorn="0.5.5"  id="text4046">
+            <g transform="matrix(1 0 0 1 53.1496 93.8976)" >
+                <g >
+                    <g >
+                        <text font-size="11.2" gorn="0.5.5.0.0.0.0"  font-family="DroidSans" id="tspan88497">500mAh</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <path gorn="0.5.6" d="M10.63,56.693h31.89" stroke-linejoin="round" stroke-linecap="round"  stroke="#000000" stroke-width="3" fill-opacity="0.7663" id="path87954"/>
+        <path gorn="0.5.7" d="M10.63,74.409h31.89" stroke-linejoin="round" stroke-linecap="round"  stroke="#000000" stroke-width="3" fill-opacity="0.7663" id="path88466"/>
+        <path gorn="0.5.8" d="M10.63,92.126h31.89" stroke-linejoin="round" stroke-linecap="round"  stroke="#000000" stroke-width="3" fill-opacity="0.7663" id="path88470"/>
+        <path gorn="0.5.9" d="M17.717,65.551h17.717" stroke-linejoin="round" stroke-linecap="round"  stroke="#000000" stroke-width="3" fill-opacity="0.7663" id="path88474"/>
+        <path gorn="0.5.10" d="M17.717,83.268h17.717" stroke-linejoin="round" stroke-linecap="round"  stroke="#000000" stroke-width="3" fill-opacity="0.7663" id="path88476"/>
+        <path gorn="0.5.11" d="M17.717,100.984h17.717" stroke-linejoin="round" stroke-linecap="round"  stroke="#000000" stroke-width="3" fill-opacity="0.7663" id="path88489"/>
+        <path gorn="0.5.12" d="M26.575,53.15v3.543" stroke-linejoin="round" stroke-linecap="round"  stroke="#000000" stroke-width="3" fill-opacity="0.7663" id="path88493"/>
+        <path gorn="0.5.13" d="M26.575,106.299v-5.315" stroke-linejoin="round" stroke-linecap="round"  stroke="#000000" stroke-width="3" fill-opacity="0.7663" id="path88495"/>
+        <path gorn="0.5.14" d="M38.976,40.748v7.087" stroke-linejoin="round" stroke-linecap="round"  stroke="#000000" stroke-width="1.5309" fill-opacity="0.7663" id="path88522"/>
+        <path gorn="0.5.15" d="M35.433,44.291h7.087" stroke-linejoin="round" stroke-linecap="round"  stroke="#000000" stroke-width="1.5309" fill-opacity="0.7663" id="path88524"/>
+    </g>
+</svg>

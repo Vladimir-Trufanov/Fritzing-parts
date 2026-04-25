@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" height="0.961861in" viewBox="0 0 42.688 69.254" enable-background="new 0 0 42.688 69.254" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="0.592889in" id="layer1" gorn="0" y="0px" version="1.1" x="0px"  xml:space="preserve">
+    <desc >
+        <referenceFile >rj-11 pcb.svg</referenceFile>
+    </desc>
+    <g id="silkscreen" gorn="0.1" >
+        <g id="white" gorn="0.1.0" >
+            <g >
+                <path d="M42.688,69.254H0.063V0h42.625V69.254z M0.806,68.206h41.137V1.048H0.806V68.206z" fill="#FFFFFF" />
+            </g>
+        </g>
+    </g>
+    <g id="copper0" gorn="0.2" >
+        <g id="copper1" gorn="0.2.0" >
+            <rect height="4" stroke-width="1.152" fill="none" width="4" stroke="#FDBF16" y="1.575" x="12.982" />
+            <circle cx="14.982" cy="3.575" stroke-width="1.25" fill="none" r="2" id="connector0pin" stroke="#FDBF16" gorn="0.2.0.1" />
+            <circle cx="22.257" cy="3.575" stroke-width="1.25" fill="none" r="2" id="connector1pin" stroke="#FDBF16" gorn="0.2.0.2" />
+            <circle cx="29.49" cy="3.575" stroke-width="1.25" fill="none" r="2" id="connector2pin" stroke="#FDBF16" gorn="0.2.0.3" />
+        </g>
+    </g>
+</svg>

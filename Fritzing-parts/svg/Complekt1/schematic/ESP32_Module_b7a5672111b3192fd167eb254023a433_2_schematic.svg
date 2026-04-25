@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="58.301121"  gorn="0" id="svg4348" version="1.1" height="144.22485">
+    <desc >
+        <referenceFile >esp32_module_testbed_38_schematic.svg</referenceFile>
+    </desc>
+    <defs  id="defs4350"/>
+    <metadata  id="metadata4353">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g  transform="translate(-172.77687,-332.60396)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g  gorn="0.3.0.0.0.0.0.0.0" id="layer1">
+                                    <g  transform="translate(426.1424,288.65947)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" id="g4467">
+                                                                    <g  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" id="schematic">
+                                                                        <rect stroke-width="1.41744733" width="43.199001"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" id="part_symbol-1" stroke="#000000" fill="#ffffff" style="stroke-linecap:round" x="-245.80441" height="142.8074" y="44.653214"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1" id="connector1pin" y1="59.795521" y2="59.795521" stroke="#555555" x1="-253.01553" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-245.81555"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2" id="connector0pin" y1="52.595539" y2="52.595539" stroke="#555555" x1="-253.01553" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-245.81555"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3" id="connector3pin" y1="74.195549" y2="74.195549" stroke="#555555" x1="-253.01553" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-245.81555"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4" id="connector2pin" y1="66.995537" y2="66.995537" stroke="#555555" x1="-253.01553" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-245.81555"/>
+                                                                        <g  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.5" id="text4410-9" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans">
+                                                                            <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.5.0" id="tspan4989" style="font-size:3.5px" x="-250.24133" y="51.056019">1</text>
+                                                                        </g>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6" id="text4416-4" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-250.24133" y="58.181019">2</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7" id="text4420-8" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-250.24133" y="72.806541">4</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8" id="text4443-2" font-size="4.5" style="font-size:4.5px;fill:#555555;font-family:DroidSans" x="-243.75604" y="53.679127">GND</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.9" id="text4445-4" font-size="4.5" style="font-size:4.5px;fill:#555555;font-family:DroidSans" x="-243.79654" y="60.981831">3V3</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.10" id="text4447-5" font-size="4.5" style="font-size:4.5px;fill:#555555;font-family:DroidSans" x="-243.75604" y="68.064354">EN</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.11" id="text4449-5" font-size="4.5" style="font-size:4.5px;fill:#555555;font-family:DroidSans" x="-243.79654" y="75.367149">SVP</text>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.12" id="connector5pin" y1="88.595085" y2="88.595085" stroke="#555555" x1="-253.01553" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-245.81555"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.13" id="connector4pin" y1="81.395103" y2="81.395103" stroke="#555555" x1="-253.01553" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-245.81555"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.14" id="connector40pin" y1="102.99511" y2="102.99511" stroke="#555555" x1="-253.01553" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-245.81555"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.15" id="connector39pin" y1="95.795097" y2="95.795097" stroke="#555555" x1="-253.01553" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-245.81555"/>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.16" id="text4634" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-250.24133" y="79.855583">5</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.17" id="text4636" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-250.24133" y="86.980583">6</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.18" id="text4638" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-250.27049" y="94.480614">7</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.19" id="text4640" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-250.24133" y="101.6061">8</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.20" id="text4642" font-size="4.5" style="font-size:4.5px;fill:#555555;font-family:DroidSans" x="-243.75604" y="82.478691">SVN</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.21" id="text4644" font-size="4.5" style="font-size:4.5px;fill:#555555;font-family:DroidSans" x="-243.79654" y="89.781395">IO34</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.22" id="text4646" font-size="4.5" style="font-size:4.5px;fill:#555555;font-family:DroidSans" x="-243.75604" y="96.863914">IO35</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.23" id="text4648" font-size="4.5" style="font-size:4.5px;fill:#555555;font-family:DroidSans" x="-243.79654" y="104.16671">IO32</text>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.24" id="connector42pin" y1="117.39552" y2="117.39552" stroke="#555555" x1="-253.01553" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-245.81555"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.25" id="connector41pin" y1="110.19554" y2="110.19554" stroke="#555555" x1="-253.01553" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-245.81555"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.26" id="connector44pin" y1="131.79555" y2="131.79555" stroke="#555555" x1="-253.01553" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-245.81555"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.27" id="connector43pin" y1="124.59554" y2="124.59554" stroke="#555555" x1="-253.01553" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-245.81555"/>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.28" id="text4658" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-250.24133" y="108.65602">9</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.29" id="text4660" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-251.06805" y="115.78102">10</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.30" id="text4662" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-251.06854" y="123.28106">11</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.31" id="text4664" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-251.06805" y="130.40654">12</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.32" id="text4666" font-size="4.5" style="font-size:4.5px;fill:#555555;font-family:DroidSans" x="-243.75604" y="111.27913">IO33</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.33" id="text4668" font-size="4.5" style="font-size:4.5px;fill:#555555;font-family:DroidSans" x="-243.79654" y="118.58183">IO25</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.34" id="text4670" font-size="4.5" style="font-size:4.5px;fill:#555555;font-family:DroidSans" x="-243.75604" y="125.66436">IO26</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.35" id="text4672" font-size="4.5" style="font-size:4.5px;fill:#555555;font-family:DroidSans" x="-243.79654" y="132.96715">IO27</text>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.36" id="connector46pin" y1="146.19508" y2="146.19508" stroke="#555555" x1="-253.01553" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-245.81555"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.37" id="connector45pin" y1="138.9951" y2="138.9951" stroke="#555555" x1="-253.01553" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-245.81555"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.38" id="connector48pin" y1="160.59511" y2="160.59511" stroke="#555555" x1="-253.01553" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-245.81555"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.39" id="connector47pin" y1="153.3951" y2="153.3951" stroke="#555555" x1="-253.01553" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-245.81555"/>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.40" id="text4682" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-251.06805" y="137.45558">13</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.41" id="text4684" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-251.06805" y="144.58058">14</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.42" id="text4686" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-251.06854" y="152.08061">15</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.43" id="text4688" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-251.06805" y="159.2061">16</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.44" id="text4690" font-size="4.5" style="font-size:4.5px;fill:#555555;font-family:DroidSans" x="-243.75604" y="140.07869">IO14</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.45" id="text4692" font-size="4.5" style="font-size:4.5px;fill:#555555;font-family:DroidSans" x="-243.79654" y="147.38139">IO12</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.46" id="text4694" font-size="4.5" style="font-size:4.5px;fill:#555555;font-family:DroidSans" x="-243.75604" y="154.46391">IO13</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.47" id="text4696" font-size="4.5" style="font-size:4.5px;fill:#555555;font-family:DroidSans" x="-243.79654" y="161.76671">SD2</text>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.48" id="connector50pin" y1="174.99553" y2="174.99553" stroke="#555555" x1="-253.01553" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-245.81555"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.49" id="connector49pin" y1="167.79555" y2="167.79555" stroke="#555555" x1="-253.01553" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-245.81555"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50" id="connector85pin" y1="182.19554" y2="182.19554" stroke="#555555" x1="-253.01553" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-245.81555"/>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.51" id="text4706" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-251.06805" y="166.25603">17</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.52" id="text4708" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-251.06805" y="173.38103">18</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.53" id="text4710" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-251.06854" y="180.88106">19</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.54" id="text4714" font-size="4.5" style="font-size:4.5px;fill:#555555;font-family:DroidSans" x="-243.75604" y="168.87914">SD3</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.55" id="text4716" font-size="4.5" style="font-size:4.5px;fill:#555555;font-family:DroidSans" x="-243.79654" y="176.18184">GND</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.56" id="text4718" font-size="4.5" style="font-size:4.5px;fill:#555555;font-family:DroidSans" x="-243.75604" y="183.26436">GND</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.57" id="text4794" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-250.24133" y="65.380714">3</text>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.58" id="connector84pin" y1="59.795521" y2="59.795521" stroke="#555555" x1="-202.6144" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-195.41441"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.59" id="connector51pin" y1="52.595539" y2="52.595539" stroke="#555555" x1="-202.6144" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-195.41441"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.60" id="connector67pin" y1="74.195549" y2="74.195549" stroke="#555555" x1="-202.6144" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-195.41441"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.61" id="connector68pin" y1="66.995537" y2="66.995537" stroke="#555555" x1="-202.6144" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-195.41441"/>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.62" id="text4804" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-200.67622" y="51.056019">38</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.63" id="text4806" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-200.67622" y="58.181019">37</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.64" id="text4808" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-200.67622" y="72.806541">35</text>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.65" id="connector65pin" y1="88.595085" y2="88.595085" stroke="#555555" x1="-202.6144" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-195.41441"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.66" id="connector66pin" y1="81.395103" y2="81.395103" stroke="#555555" x1="-202.6144" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-195.41441"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.67" id="connector63pin" y1="102.99511" y2="102.99511" stroke="#555555" x1="-202.6144" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-195.41441"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.68" id="connector64pin" y1="95.795097" y2="95.795097" stroke="#555555" x1="-202.6144" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-195.41441"/>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.69" id="text4826" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-200.67622" y="79.855583">34</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.70" id="text4828" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-200.67622" y="86.980583">33</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.71" id="text4830" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-200.70538" y="94.480614">32</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.72" id="text4832" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-200.67622" y="101.6061">31</text>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.73" id="connector61pin" y1="117.39552" y2="117.39552" stroke="#555555" x1="-202.6144" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-195.41441"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.74" id="connector62pin" y1="110.19554" y2="110.19554" stroke="#555555" x1="-202.6144" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-195.41441"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.75" id="connector59pin" y1="131.79555" y2="131.79555" stroke="#555555" x1="-202.6144" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-195.41441"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.76" id="connector60pin" y1="124.59554" y2="124.59554" stroke="#555555" x1="-202.6144" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-195.41441"/>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.77" id="text4850" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-200.67622" y="108.65602">30</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.78" id="text4852" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-200.66692" y="115.78102">29</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.79" id="text4854" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-200.6674" y="123.28106">28</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.80" id="text4856" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-200.66692" y="130.40654">27</text>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.81" id="connector57pin" y1="146.19508" y2="146.19508" stroke="#555555" x1="-202.6144" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-195.41441"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.82" id="connector58pin" y1="138.9951" y2="138.9951" stroke="#555555" x1="-202.6144" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-195.41441"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.83" id="connector55pin" y1="160.59511" y2="160.59511" stroke="#555555" x1="-202.6144" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-195.41441"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.84" id="connector56pin" y1="153.3951" y2="153.3951" stroke="#555555" x1="-202.6144" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-195.41441"/>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.85" id="text4874" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-200.66692" y="137.45558">26</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.86" id="text4876" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-200.66692" y="144.58058">25</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.87" id="text4878" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-200.6674" y="152.08061">24</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.88" id="text4880" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-200.66692" y="159.2061">23</text>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.89" id="connector53pin" y1="174.99553" y2="174.99553" stroke="#555555" x1="-202.6144" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-195.41441"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.90" id="connector54pin" y1="167.79555" y2="167.79555" stroke="#555555" x1="-202.6144" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-195.41441"/>
+                                                                        <line stroke-width="0.69999999"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.91" id="connector52pin" y1="182.19554" y2="182.19554" stroke="#555555" x1="-202.6144" fill="none" style="stroke-linecap:round;stroke-linejoin:round" x2="-195.41441"/>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.92" id="text4896" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-200.66692" y="166.25603">22</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.93" id="text4898" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-200.66692" y="173.38103">21</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.94" id="text4900" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-200.6674" y="180.88106">20</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.95" id="text4908" font-size="3" style="font-size:3.5px;fill:#555555;font-family:DroidSans" x="-200.67622" y="65.380714">36</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.96" id="text4910" font-size="4.5" style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans" x="-203.98518" y="53.679127">GND</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.97" id="text4912" font-size="4.5" style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans" x="-204.41679" y="60.981831">IO23</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.98" id="text4914" font-size="4.5" style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans" x="-204.40926" y="68.064354">IO22</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.99" id="text4916" font-size="4.5" style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans" x="-204.23732" y="75.367149">TXD0</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.100" id="text4918" font-size="4.5" style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans" x="-203.98451" y="82.478691">RXD0</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.101" id="text4920" font-size="4.5" style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans" x="-204.33858" y="89.781395">IO21</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.102" id="text4922" font-size="4.5" style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans" x="-204.38728" y="96.863914">IO20</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.103" id="text4924" font-size="4.5" style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans" x="-204.4102" y="104.16671">IO19</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.104" id="text4926" font-size="4.5" style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans" x="-204.36971" y="111.27913">IO18</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.105" id="text4928" font-size="4.5" style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans" x="-204.59737" y="118.58183">IO5</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.106" id="text4930" font-size="4.5" style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans" x="-204.3763" y="125.66436">IO17</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.107" id="text4932" font-size="4.5" style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans" x="-204.41899" y="132.96715">IO16</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.108" id="text4934" font-size="4.5" style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans" x="-204.59711" y="140.07869">IO4</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.109" id="text4936" font-size="4.5" style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans" x="-204.59711" y="147.38139">IO0</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.110" id="text4938" font-size="4.5" style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans" x="-204.59711" y="154.46391">IO2</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.111" id="text4940" font-size="4.5" style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans" x="-204.39262" y="161.76671">IO15</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.112" id="text4942" font-size="4.5" style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans" x="-204.07365" y="168.87914">SD1</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.113" id="text4944" font-size="4.5" style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans" x="-204.40337" y="176.18184">SD0</text>
+                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.114" id="text4946" font-size="4.5" style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans" x="-204.58052" y="183.26436">CLK</text>
+                                                                        <g  transform="matrix(0,1,-1,0,0,0)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.115.0.0.0.0.0.0.0" id="text4457-7" font-size="6" style="font-size:6px;font-family:DroidSans">
+                                                                                                        <text  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.115.0.0.0.0.0.0.0.0" id="tspan4991" style="font-size:4.25px" x="95.360329" y="224.63828">ESP_MODULE_TESTBED</text>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
