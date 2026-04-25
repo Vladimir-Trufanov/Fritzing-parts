@@ -8,3 +8,5 @@
 ### [Bat-файл сборки компонента Fritzing - make-fzpz](make-fzpz/make-fzpz.md)
 
 ### [Что я знаю про Fritzing](Fritzing-WhatdoIknow/Fritzing-WhatdoIknow.md)
+
+### [03-swkim01-коллекция компонентов и схем для Raspberry Pi ](03-fritzing-parts-swkim01/fritzing-parts-swkim01.md)
