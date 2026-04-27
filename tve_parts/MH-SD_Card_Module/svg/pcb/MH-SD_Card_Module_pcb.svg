@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg"  width="1.18383in" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" x="0px" version="1.2" y="0px" height="1.97342in" viewBox="0 0 85.236 142.086" baseProfile="tiny" id="0">
+ <desc   id="0.0" oldid="0.0">
+  <referenceFile   id="0.0.0" oldid="0.0.0">pcb.svg</referenceFile>
+ </desc>
+ <rect  width="85.236" x="0" y="6.874" fill="none"  height="134.929" stroke="#FFFFFF" id="silkscreen" stroke-width="1" stroke-miterlimit="10"/>
+ <g   id="copper1">
+  <g   id="connector_14_">
+   <circle  fill="#95979A" cx="17.418"  cy="128.857" r="2.834" id="0.2.0.0"/>
+   <circle  fill="#FFFFFF" cx="17.418"  cy="128.856" r="1.417" id="0.2.0.1"/>
+  </g>
+  <g   id="connector_13_">
+   <circle  fill="#95979A" cx="24.619"  cy="128.857" r="2.834" id="0.2.1.0"/>
+   <circle  fill="#FFFFFF" cx="24.619"  cy="128.856" r="1.417" id="0.2.1.1"/>
+  </g>
+  <g   id="connector_12_">
+   <circle  fill="#95979A" cx="31.818"  cy="128.857" r="2.834" id="0.2.2.0"/>
+   <circle  fill="#FFFFFF" cx="31.818"  cy="128.856" r="1.417" id="0.2.2.1"/>
+  </g>
+  <g   id="connector_11_">
+   <circle  fill="#95979A" cx="39.018"  cy="128.857" r="2.834" id="0.2.3.0"/>
+   <circle  fill="#FFFFFF" cx="39.018"  cy="128.856" r="1.417" id="0.2.3.1"/>
+  </g>
+  <g   id="connector_10_">
+   <circle  fill="#95979A" cx="46.218"  cy="128.857" r="2.834" id="0.2.4.0"/>
+   <circle  fill="#FFFFFF" cx="46.218"  cy="128.856" r="1.417" id="0.2.4.1"/>
+  </g>
+  <g   id="connector_9_">
+   <circle  fill="#95979A" cx="53.418"  cy="128.857" r="2.834" id="0.2.5.0"/>
+   <circle  fill="#FFFFFF" cx="53.418"  cy="128.856" r="1.417" id="0.2.5.1"/>
+  </g>
+  <g   id="connector_8_">
+   <circle  fill="#95979A" cx="60.618"  cy="128.857" r="2.834" id="0.2.6.0"/>
+   <circle  fill="#FFFFFF" cx="60.618"  cy="128.856" r="1.417" id="0.2.6.1"/>
+  </g>
+  <g   id="connector_7_">
+   <circle  fill="#95979A" cx="67.818"  cy="128.857" r="2.834" id="0.2.7.0"/>
+   <circle  fill="#FFFFFF" cx="67.818"  cy="128.856" r="1.417" id="0.2.7.1"/>
+  </g>
+  <g   id="connector_6_">
+   <circle  fill="#95979A" cx="17.418"  cy="136.057" r="2.834" id="0.2.8.0"/>
+   <circle  fill="#FFFFFF" cx="17.418"  cy="136.058" r="1.417" id="0.2.8.1"/>
+  </g>
+  <g   id="connector_5_">
+   <circle  fill="#95979A" cx="24.619"  cy="136.057" r="2.834" id="0.2.9.0"/>
+   <circle  fill="#FFFFFF" cx="24.619"  cy="136.058" r="1.417" id="0.2.9.1"/>
+  </g>
+  <g   id="connector_4_">
+   <circle  fill="#95979A" cx="31.818"  cy="136.057" r="2.834" id="0.2.10.0"/>
+   <circle  fill="#FFFFFF" cx="31.818"  cy="136.058" r="1.417" id="0.2.10.1"/>
+  </g>
+  <g   id="conbnector">
+   <circle  fill="#95979A" cx="39.018"  cy="136.057" r="2.834" id="0.2.11.0"/>
+   <circle  fill="#FFFFFF" cx="39.018"  cy="136.058" r="1.417" id="0.2.11.1"/>
+  </g>
+  <g   id="connector_3_">
+   <circle  fill="#95979A" cx="46.218"  cy="136.057" r="2.834" id="0.2.12.0"/>
+   <circle  fill="#FFFFFF" cx="46.218"  cy="136.058" r="1.417" id="0.2.12.1"/>
+  </g>
+  <g   id="connector_2_">
+   <circle  fill="#95979A" cx="53.418"  cy="136.057" r="2.834" id="0.2.13.0"/>
+   <circle  fill="#FFFFFF" cx="53.418"  cy="136.058" r="1.417" id="0.2.13.1"/>
+  </g>
+  <g   id="connector_1_">
+   <circle  fill="#95979A" cx="60.618"  cy="136.057" r="2.834" id="0.2.14.0"/>
+   <circle  fill="#FFFFFF" cx="60.618"  cy="136.058" r="1.417" id="0.2.14.1"/>
+  </g>
+  <g   id="connector">
+   <circle  fill="#95979A" cx="67.818"  cy="136.057" r="2.834" id="0.2.15.0"/>
+   <circle  fill="#FFFFFF" cx="67.818"  cy="136.058" r="1.417" id="0.2.15.1"/>
+  </g>
+ </g>
+</svg>

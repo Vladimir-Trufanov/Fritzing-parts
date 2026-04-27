@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   width="1.18383in"
+   xml:space="preserve"
+   x="0px"
+   version="1.2"
+   y="0px"
+   height="1.973425in"
+   viewBox="0 0 85.236 142.08636"
+   id="0"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1">
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ </defs>
+ <desc
+   id="0.0"
+   oldid="0.0">
+  <referenceFile
+   id="0.0.0"
+   oldid="0.0.0">breadboard.svg</referenceFile>
+ </desc>
+ 
+ 
+ 
+ 
+ 
+ <g
+   id="g7"
+   transform="translate(0,0.2836819)"><rect
+     width="85.236"
+     x="0"
+     y="6.8740001"
+     fill="#3b56a6"
+     height="134.929"
+     id="background" /><path
+     fill="#9b9da0"
+     id="0.2"
+     d="m 68.908,-0.284 c -2.78,12.543 -13.492,21.893 -26.291,21.893 -12.799,0 -23.51,-9.35 -26.289,-21.893 H 2.007 V 83.358 H 83.23 V -0.284 Z" /><rect
+     width="5.6680002"
+     x="4.3340001"
+     y="97.635002"
+     fill="#a19a35"
+     height="8.5039997"
+     id="0.3.0" /><rect
+     width="5.6680002"
+     x="37.098"
+     y="93.639"
+     fill="#a19a35"
+     height="8.5039997"
+     id="0.3.1" /><rect
+     width="4.2519999"
+     x="46.018002"
+     y="95.055"
+     height="5.6700001"
+     id="0.3.2" /><rect
+     width="4.2519999"
+     x="70.652"
+     y="95.055"
+     height="5.6700001"
+     id="0.3.3" /><rect
+     width="4.2519999"
+     x="62.439999"
+     y="95.055"
+     height="5.6700001"
+     id="0.3.4" /><rect
+     width="4.2519999"
+     x="54.229"
+     y="95.055"
+     height="5.6700001"
+     id="0.3.5" /><rect
+     width="8.0410004"
+     x="13.555"
+     y="94.285004"
+     height="15.204"
+     id="0.3.6" /><text
+     fill="#ffffff"
+     font-family="OCRA"
+     id="0.4.0"
+     transform="rotate(-90)"
+     font-size="4px"
+     x="-123.8574"
+     y="18.418699">GND</text><text
+     fill="#ffffff"
+     font-family="OCRA"
+     id="0.4.1"
+     transform="rotate(-90)"
+     font-size="4px"
+     x="-123.8574"
+     y="25.6189"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"><tspan
+       id="tspan6"
+       x="-123.8574"
+       y="25.6189">MISO</tspan></text><text
+     fill="#ffffff"
+     font-family="OCRA"
+     id="0.4.2"
+     transform="rotate(-90)"
+     font-size="4px"
+     x="-123.8574"
+     y="32.8181"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"><tspan
+       id="tspan5"
+       x="-123.8574"
+       y="32.8181">SCK</tspan></text><text
+     fill="#ffffff"
+     font-family="OCRA"
+     id="0.4.3"
+     transform="rotate(-90)"
+     font-size="4px"
+     x="-123.8574"
+     y="40.018299"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"><tspan
+       id="tspan4"
+       x="-123.8574"
+       y="40.018299">MOSI</tspan></text><text
+     fill="#ffffff"
+     font-family="OCRA"
+     id="0.4.3-1"
+     transform="rotate(-90)"
+     font-size="4px"
+     x="-77.264801"
+     y="43.198765"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"><tspan
+       id="tspan7"
+       x="-77.264801"
+       y="43.198765">MH-SD Card Module</tspan></text><text
+     fill="#ffffff"
+     font-family="OCRA"
+     id="0.4.4"
+     transform="rotate(-90)"
+     font-size="4px"
+     x="-123.8574"
+     y="47.218498"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"><tspan
+       id="tspan3"
+       x="-123.8574"
+       y="47.218498">CS</tspan></text><text
+     fill="#ffffff"
+     font-family="OCRA"
+     id="0.4.5"
+     transform="rotate(-90)"
+     font-size="4px"
+     x="-123.8574"
+     y="54.418701"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"><tspan
+       id="tspan2"
+       x="-123.8574"
+       y="54.418701">5V</tspan></text><text
+     fill="#ffffff"
+     font-family="OCRA"
+     id="0.4.6"
+     transform="rotate(-90)"
+     font-size="4px"
+     x="-123.8574"
+     y="61.617901"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"><tspan
+       id="tspan1"
+       x="-123.8574"
+       y="61.617901">3V3</tspan></text><text
+     fill="#ffffff"
+     font-family="OCRA"
+     id="0.4.7"
+     transform="rotate(-90)"
+     font-size="4px"
+     x="-123.8574"
+     y="68.8181">GND</text><rect
+     width="85.236"
+     x="0"
+     y="6.8740001"
+     fill="none"
+     height="134.929"
+     id="silkscreen" /><g
+     id="0.6.0">
+   <circle
+   fill="#95979a"
+   cx="17.417999"
+   cy="128.85699"
+   r="2.8340001"
+   id="0.6.0.0" />
+   <circle
+   fill="#ffffff"
+   cx="17.417999"
+   cy="128.856"
+   r="1.4170001"
+   id="0.6.0.1" />
+  </g><g
+     id="0.6.1">
+   <circle
+   fill="#95979a"
+   cx="24.618999"
+   cy="128.85699"
+   r="2.8340001"
+   id="0.6.1.0" />
+   <circle
+   fill="#ffffff"
+   cx="24.618999"
+   cy="128.856"
+   r="1.4170001"
+   id="0.6.1.1" />
+  </g><g
+     id="0.6.2">
+   <circle
+   fill="#95979a"
+   cx="31.818001"
+   cy="128.85699"
+   r="2.8340001"
+   id="0.6.2.0" />
+   <circle
+   fill="#ffffff"
+   cx="31.818001"
+   cy="128.856"
+   r="1.4170001"
+   id="0.6.2.1" />
+  </g><g
+     id="0.6.3">
+   <circle
+   fill="#95979a"
+   cx="39.018002"
+   cy="128.85699"
+   r="2.8340001"
+   id="0.6.3.0" />
+   <circle
+   fill="#ffffff"
+   cx="39.018002"
+   cy="128.856"
+   r="1.4170001"
+   id="0.6.3.1" />
+  </g><g
+     id="0.6.4">
+   <circle
+   fill="#95979a"
+   cx="46.217999"
+   cy="128.85699"
+   r="2.8340001"
+   id="0.6.4.0" />
+   <circle
+   fill="#ffffff"
+   cx="46.217999"
+   cy="128.856"
+   r="1.4170001"
+   id="0.6.4.1" />
+  </g><g
+     id="0.6.5">
+   <circle
+   fill="#95979a"
+   cx="53.417999"
+   cy="128.85699"
+   r="2.8340001"
+   id="0.6.5.0" />
+   <circle
+   fill="#ffffff"
+   cx="53.417999"
+   cy="128.856"
+   r="1.4170001"
+   id="0.6.5.1" />
+  </g><g
+     id="0.6.6">
+   <circle
+   fill="#95979a"
+   cx="60.618"
+   cy="128.85699"
+   r="2.8340001"
+   id="0.6.6.0" />
+   <circle
+   fill="#ffffff"
+   cx="60.618"
+   cy="128.856"
+   r="1.4170001"
+   id="0.6.6.1" />
+  </g><g
+     id="0.6.7">
+   <circle
+   fill="#95979a"
+   cx="67.818001"
+   cy="128.85699"
+   r="2.8340001"
+   id="0.6.7.0" />
+   <circle
+   fill="#ffffff"
+   cx="67.818001"
+   cy="128.856"
+   r="1.4170001"
+   id="0.6.7.1" />
+  </g><g
+     id="0.6.8">
+   <circle
+   fill="#95979a"
+   cx="17.417999"
+   cy="136.05701"
+   r="2.8340001"
+   id="0.6.8.0" />
+   <circle
+   fill="#ffffff"
+   cx="17.417999"
+   cy="136.058"
+   r="1.4170001"
+   id="connector0pin" />
+  </g><g
+     id="0.6.9">
+   <circle
+   fill="#95979a"
+   cx="24.618999"
+   cy="136.05701"
+   r="2.8340001"
+   id="0.6.9.0" />
+   <circle
+   fill="#ffffff"
+   cx="24.618999"
+   cy="136.058"
+   r="1.4170001"
+   id="connector1pin" />
+  </g><g
+     id="0.6.10">
+   <circle
+   fill="#95979a"
+   cx="31.818001"
+   cy="136.05701"
+   r="2.8340001"
+   id="0.6.10.0" />
+   <circle
+   fill="#ffffff"
+   cx="31.818001"
+   cy="136.058"
+   r="1.4170001"
+   id="connector2pin" />
+  </g><g
+     id="0.6.11">
+   <circle
+   fill="#95979a"
+   cx="39.018002"
+   cy="136.05701"
+   r="2.8340001"
+   id="0.6.11.0" />
+   <circle
+   fill="#ffffff"
+   cx="39.018002"
+   cy="136.058"
+   r="1.4170001"
+   id="connector3pin" />
+  </g><g
+     id="0.6.12">
+   <circle
+   fill="#95979a"
+   cx="46.217999"
+   cy="136.05701"
+   r="2.8340001"
+   id="0.6.12.0" />
+   <circle
+   fill="#ffffff"
+   cx="46.217999"
+   cy="136.058"
+   r="1.4170001"
+   id="connector4pin" />
+  </g><g
+     id="0.6.13">
+   <circle
+   fill="#95979a"
+   cx="53.417999"
+   cy="136.05701"
+   r="2.8340001"
+   id="0.6.13.0" />
+   <circle
+   fill="#ffffff"
+   cx="53.417999"
+   cy="136.058"
+   r="1.4170001"
+   id="connector5pin" />
+  </g><g
+     id="0.6.14">
+   <circle
+   fill="#95979a"
+   cx="60.618"
+   cy="136.05701"
+   r="2.8340001"
+   id="0.6.14.0" />
+   <circle
+   fill="#ffffff"
+   cx="60.618"
+   cy="136.058"
+   r="1.4170001"
+   id="connector6pin" />
+  </g><g
+     id="0.6.15">
+   <circle
+   fill="#95979a"
+   cx="67.818001"
+   cy="136.05701"
+   r="2.8340001"
+   id="0.6.15.0" />
+   <circle
+   fill="#ffffff"
+   cx="67.818001"
+   cy="136.058"
+   r="1.4170001"
+   id="connector7pin" />
+  </g></g>
+</svg>
