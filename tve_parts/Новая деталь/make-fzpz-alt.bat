@@ -1,8 +1,9 @@
 @ECHO OFF
-REM make-fzpz
+REM make-fzpz-alt.bat 
+REM Бат-файл для сборки файла *.fzpz без представлений icon и pcb
+REM (подмена представлений icon и pcb определена в файле *.fzp)
 REM Author: Mike Pilgrem
 
-REM Creates a *.fzpz file for a single Fritzing part. For further information
 REM run:
 REM make-file --help
 
@@ -16,20 +17,12 @@ IF NOT EXIST part\%1.fzp (
     ECHO File part\%1.fzp expected but not found.
     GOTO END
 )
-IF NOT EXIST svg\icon\%1_icon.svg (
-    ECHO File svg\icon\%1_icon.svg expected but not found.
-    GOTO END
-)
 IF NOT EXIST svg\breadboard\%1_breadboard.svg (
     ECHO svg\breadboard\%1_breadboard.svg expected but not found.
     GOTO END
 )
 IF NOT EXIST svg\schematic\%1_schematic.svg (
     ECHO svg\schematic\%1_schematic.svg expected but not found.
-    GOTO END
-)
-IF NOT EXIST svg\pcb\%1_pcb.svg (
-    ECHO File svg\pcb\%1_pcb.svg expected but not found.
     GOTO END
 )
 
@@ -44,16 +37,14 @@ IF EXIST %1.fzpz (
 
 REM Prepare copies of files for archive, silently
 COPY part\%1.fzp part.%1.fzp >NUL
-COPY svg\icon\%1_icon.svg svg.icon.%1_icon.svg >NUL
 COPY svg\breadboard\%1_breadboard.svg svg.breadboard.%1_breadboard.svg >NUL
 COPY svg\schematic\%1_schematic.svg svg.schematic.%1_schematic.svg >NUL
-COPY svg\pcb\%1_pcb.svg svg.pcb.%1_pcb.svg >NUL
 
 REM Add the files to the zip archive partname.fzpz, silently
-7z a -tzip %1.fzpz part.%1.fzp svg.icon.%1_icon.svg svg.breadboard.%1_breadboard.svg svg.schematic.%1_schematic.svg svg.pcb.%1_pcb.svg >NUL
+7z a -tzip %1.fzpz part.%1.fzp svg.breadboard.%1_breadboard.svg svg.schematic.%1_schematic.svg  >NUL
 
 REM Clean up
-DEL part.%1.fzp svg.icon.%1_icon.svg svg.breadboard.%1_breadboard.svg svg.schematic.%1_schematic.svg svg.pcb.%1_pcb.svg
+DEL part.%1.fzp svg.breadboard.%1_breadboard.svg svg.schematic.%1_schematic.svg 
 
 REM Report
 ECHO New file %1.fzpz has been created.
@@ -82,6 +73,7 @@ ECHO.
 
 REM ----------------------------------------------------------------------------
 REM Copyright (c) 2015, Mike Pilgrem
+REM Copyright (c) 2026, Vladimir Trufanov
 REM All rights reserved.
 
 REM Redistribution and use in source and binary forms, with or without
