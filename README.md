@@ -17,3 +17,7 @@
 ### [05-librerias_fritzing-main](#)
 
 ### [06 Fritzing parts от 2024-05-29](#)
+
+### [07-fritzing-parts-AlexGyver](07-fritzing-parts-AlexGyver/fritzing-parts-AlexGyver.md)
+
+
