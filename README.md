@@ -20,4 +20,6 @@
 
 ### [07-fritzing-parts-AlexGyver](07-fritzing-parts-AlexGyver/fritzing-parts-AlexGyver.md)
 
+### [08-fritzing-parts-tecsantoshkumar](08-fritzing-parts-tecsantoshkumar/fritzing-parts-tecsantoshkumar.md)
+
 
