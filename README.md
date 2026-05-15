@@ -10,6 +10,12 @@
 
 ### [tve_parts - реестр деталей для Fritzing, сделанных tve](tve_parts/tve_parts.md)
 
+### [021-каталог компонентов для Fritzing](https://udocs.ru/fritzing)
+
+### [022-файлы деталей, подготовленные в Adobe Illustrator](https://digitalconcepts.net.au/fritzing/index.php?op=parts)
+
+### [023-Fritzing Parts Download](https://www.elec-cafe.com/fritzing-parts-download/)
+
 ### [03-swkim01-коллекция компонентов и схем для Raspberry Pi ](03-fritzing-parts-swkim01/fritzing-parts-swkim01.md)
 
 ### [04-fritzing-parts-robertoostenveld](04-fritzing-parts-robertoostenveld/fritzing-parts-robertoostenveld.md)
