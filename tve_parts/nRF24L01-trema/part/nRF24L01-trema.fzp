@@ -1,0 +1,130 @@
+<module fritzingVersion="0.7.2b" moduleId="nRF24L01-trema" referenceFile="new.fzp">
+ <version>4</version>
+ <date>Fri Oct 09 2026</date>
+ <label>nRF24L01</label>
+ <author>tve</author>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Блок 3 элементов питания AAA по 1.5В&lt;/p>&lt;/body>&lt;/html></description>
+ <title>nRF24L01-trema</title>
+ <tags>
+  <tag>nRF24L01</tag>
+ </tags>
+ <properties>
+  <property name="variant">variant 2</property>
+  <property name="family">tve</property>
+  <property name="layer"></property>
+  <property name="package">Pack-tve</property>
+  <property name="part number">001</property>
+  <property name="variant">variant 2</property>
+  <property name="Напряжение питания">1,9В – 3,6В</property>
+  <property name="Частота приёма и передачи">2,4 ГГц</property>
+  <property name="Количество каналов">128 с шагом 1МГц</property>
+  <property name="Скорость передачи данных">250kbps, 1Mbps и 2Mbps</property>
+  <property name="Чувствительность приёмника">-82 dBm</property>
+  <property name="Расстояние приёма/передачи данных">100м – прямая видимость, 30м – помещение</property>
+  <property name="Организация сети на одном канале">7 модулей (1 приёмник и 6 передатчиков)</property>
+ </properties>
+ 
+ <views>
+  <breadboardView>
+   <layers image="breadboard/nRF24L01-trema_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/nRF24L01-trema_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+ </views>
+
+ <connectors>
+  <connector id="connector1" name="CE" type="male">
+   <description>CE</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector0pin" terminalId="connector0terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector0pin" terminalId="connector0terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+
+  <connector id="connector2" name="MISO" type="male">
+   <description>MISO</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector1pin" terminalId="connector1terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector1pin" terminalId="connector1terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+
+  <connector id="connector3" name="GND" type="male">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector2pin" terminalId="connector2terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector2pin" terminalId="connector2terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+
+  <connector id="connector4" name="Vcc" type="male">
+   <description>Vcc</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector3pin" terminalId="connector3terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector3pin" terminalId="connector3terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+
+  <connector id="connector5" name="MOSI" type="male">
+   <description>MOSI</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector4pin" terminalId="connector4terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector4pin" terminalId="connector4terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+
+  <connector id="connector6" name="SCK" type="male">
+   <description>SCK</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector5pin" terminalId="connector5terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector5pin" terminalId="connector5terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+
+  <connector id="connector7" name="CS(SS)" type="male">
+   <description>CS(SS)</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector6pin" terminalId="connector6terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector6pin" terminalId="connector6terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+ </connectors>
+</module>
+
