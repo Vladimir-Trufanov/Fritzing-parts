@@ -25,7 +25,7 @@ p, li { white-space: pre-wrap; }
   <property name="Скорость передачи данных">250kbps, 1Mbps и 2Mbps</property>
   <property name="Чувствительность приёмника">-82 dBm</property>
   <property name="Расстояние приёма/передачи данных">100м – прямая видимость, 30м – помещение</property>
-  <property name="Организация сети на одном канале">7 модулей (1 приёмник и 6 передатчиков)</property>
+  <property name="Организация сети на одном канале">7 модулей, 1 приёмник и 6 передатчиков</property>
  </properties>
  
  <views>
@@ -34,11 +34,24 @@ p, li { white-space: pre-wrap; }
     <layer layerId="breadboard"/>
    </layers>
   </breadboardView>
+
+  <iconView>
+    <layers image="icon/nRF24L01-trema_icon.svg">
+      <layer layerId="icon"/>
+    </layers>
+  </iconView>
+ 
   <schematicView>
    <layers image="schematic/nRF24L01-trema_schematic.svg">
     <layer layerId="schematic"/>
    </layers>
   </schematicView>
+   
+  <pcbView>
+    <layers image="pcb/nRF24L01-trema_pcb.svg">
+     <layer layerId="pcb"/>
+    </layers>
+  </pcbView>
  </views>
 
  <connectors>
@@ -51,6 +64,8 @@ p, li { white-space: pre-wrap; }
     <schematicView>
      <p layer="schematic" svgId="connector0pin" terminalId="connector0terminal"/>
     </schematicView>
+     <pcbView>
+     </pcbView>
    </views>
   </connector>
 
@@ -63,6 +78,8 @@ p, li { white-space: pre-wrap; }
     <schematicView>
      <p layer="schematic" svgId="connector1pin" terminalId="connector1terminal"/>
     </schematicView>
+     <pcbView>
+     </pcbView>
    </views>
   </connector>
 
@@ -75,6 +92,8 @@ p, li { white-space: pre-wrap; }
     <schematicView>
      <p layer="schematic" svgId="connector2pin" terminalId="connector2terminal"/>
     </schematicView>
+     <pcbView>
+     </pcbView>
    </views>
   </connector>
 
@@ -87,6 +106,8 @@ p, li { white-space: pre-wrap; }
     <schematicView>
      <p layer="schematic" svgId="connector3pin" terminalId="connector3terminal"/>
     </schematicView>
+     <pcbView>
+     </pcbView>
    </views>
   </connector>
 
@@ -99,6 +120,8 @@ p, li { white-space: pre-wrap; }
     <schematicView>
      <p layer="schematic" svgId="connector4pin" terminalId="connector4terminal"/>
     </schematicView>
+     <pcbView>
+     </pcbView>
    </views>
   </connector>
 
@@ -111,6 +134,8 @@ p, li { white-space: pre-wrap; }
     <schematicView>
      <p layer="schematic" svgId="connector5pin" terminalId="connector5terminal"/>
     </schematicView>
+     <pcbView>
+     </pcbView>
    </views>
   </connector>
 
@@ -123,6 +148,8 @@ p, li { white-space: pre-wrap; }
     <schematicView>
      <p layer="schematic" svgId="connector6pin" terminalId="connector6terminal"/>
     </schematicView>
+     <pcbView>
+     </pcbView>
    </views>
   </connector>
  </connectors>
