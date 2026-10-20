@@ -8,9 +8,9 @@
    x="0px"
    gorn="0"
    y="0px"
-   viewBox="0 0 68.64021 127.44186"
-   width="0.95333534in"
-   height="1.7700249in"
+   viewBox="0 0 68.640214 127.44187"
+   width="0.9533354in"
+   height="1.770025in"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
    id="defs69">
@@ -271,7 +271,7 @@
      stroke-linecap="round"
      height="118.7" /><line
      stroke-width="0.7"
-     id="connector7pin"
+     id="connector6pin"
      gorn="0.3.0.0"
      y1="119.12207"
      stroke="#565656"
@@ -282,7 +282,7 @@
      x2="63.975132"
      stroke-linecap="round" /><rect
      stroke-width="0"
-     id="connector7terminal"
+     id="connector6terminal"
      x="63.648048"
      gorn="0.3.0.1"
      y="-126.82053"
@@ -312,7 +312,7 @@
      fill="none"
      height="0.015802" /><line
      stroke-width="0.7"
-     id="connector6pin"
+     id="connector5pin"
      gorn="0.3.0.0"
      y1="119.2516"
      stroke="#565656"
@@ -323,7 +323,7 @@
      x2="56.65316"
      stroke-linecap="round" /><rect
      stroke-width="0"
-     id="connector6terminal"
+     id="connector5terminal"
      x="56.304043"
      gorn="0.3.0.1"
      y="126.44936"
@@ -332,7 +332,7 @@
      fill="none"
      height="0.015802" /><line
      stroke-width="0.7"
-     id="connector5pin"
+     id="connector4pin"
      gorn="0.3.0.0"
      y1="119.32825"
      stroke="#565656"
@@ -343,30 +343,10 @@
      x2="48.748497"
      stroke-linecap="round" /><rect
      stroke-width="0"
-     id="connector5terminal"
+     id="connector4terminal"
      x="48.672035"
      gorn="0.3.0.1"
      y="126.68134"
-     stroke="none"
-     width="0.0014"
-     fill="none"
-     height="0.015802" /><line
-     stroke-width="0.7"
-     id="connector4pin"
-     gorn="0.3.0.0"
-     y1="119.30039"
-     stroke="#565656"
-     stroke-linejoin="round"
-     y2="126.50141"
-     x1="41.183929"
-     fill="none"
-     x2="41.183929"
-     stroke-linecap="round" /><rect
-     stroke-width="0"
-     id="connector4terminal"
-     x="40.824032"
-     gorn="0.3.0.1"
-     y="126.67083"
      stroke="none"
      width="0.0014"
      fill="none"
@@ -432,16 +412,17 @@
      fill="none"
      height="0.015802" /><g
      id="g51"
-     transform="translate(46.028373,117.50444)">
+     transform="translate(41.70837,117.50444)">
                     <text
    font-family="'Noto Sans'"
    fill="#565656"
    font-size="4.5px"
    id="text50"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.5px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#565656"><tspan
-     id="tspan2"
-     x="0"
-     y="0">5V</tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.5px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#565656"
+   x="-0.703848"><tspan
+     id="tspan9"
+     x="-0.703848"
+     y="0">MOSI</tspan></text>
                 </g><g
      id="g54"
      transform="translate(-4.7423597,133.35003)">
@@ -451,28 +432,28 @@
    font-size="4.5px"
    id="text53"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.5px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#565656"
-   x="6.0435495"
-   y="-16.576593"><tspan
-     id="tspan4"
-     x="6.0435495"
-     y="-16.576593">GND</tspan></text>
+   x="6.1720424"
+   y="-16.610106"><tspan
+     id="tspan3"
+     x="6.1720424"
+     y="-16.610106">CE</tspan></text>
                 </g><g
      id="g54-8"
-     transform="translate(52.669748,133.9449)">
+     transform="translate(54.685749,133.9449)">
                     <text
    font-family="'Noto Sans'"
    fill="#565656"
    font-size="4.5px"
    id="text53-4"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.5px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#565656"
-   x="6.0435495"
+   x="6.6479764"
    y="-16.576593"><tspan
-     id="tspan4-8"
-     x="6.0435495"
-     y="-16.576593">GND</tspan></text>
+     id="tspan7"
+     x="6.6479764"
+     y="-16.576593">CS</tspan></text>
                 </g><g
      id="g54-6"
-     transform="translate(10.090349,116.68211)">
+     transform="translate(7.5244979,116.68211)">
                     <text
    font-family="'Noto Sans'"
    fill="#565656"
@@ -481,36 +462,33 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.5px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#565656">MISO</text>
                 </g><g
      id="g57"
-     transform="translate(20.772221,116.6512)">
+     transform="translate(19.33222,116.6512)">
                     <text
    font-family="'Noto Sans'"
    fill="#565656"
    font-size="4.5px"
    id="text56"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.5px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#565656">SCK</text>
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.5px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#565656"
+   x="-0.47852463"><tspan
+     id="tspan4"
+     x="-0.47852463"
+     y="0">GND</tspan></text>
                 </g><g
      id="g60"
-     transform="translate(28.704383,116.77345)">
+     transform="translate(29.424384,116.77345)">
                     <text
    font-family="'Noto Sans'"
    fill="#565656"
    font-size="4.5px"
    id="text59"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.5px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#565656">MOSI</text>
-                </g><g
-     id="g63"
-     transform="translate(37.644494,116.99655)">
-                    <text
-   font-family="'Noto Sans'"
-   fill="#565656"
-   font-size="4.5px"
-   id="text62"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.5px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#565656"
-   x="2.9354384"
-   y="0.51801854">CS</text>
+   x="-0.65512455"><tspan
+     id="tspan6"
+     x="-0.65512455"
+     y="0">VCC</tspan></text>
                 </g><g
      id="g63-5"
-     transform="translate(52.521146,117.4389)">
+     transform="translate(53.27286,117.4389)">
                     <text
    font-family="'Noto Sans'"
    fill="#565656"
@@ -518,9 +496,9 @@
    id="text62-8"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.5px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#565656"
    x="-0.69069135"><tspan
-     id="tspan1"
+     id="tspan8"
      x="-0.69069135"
-     y="0">3V3</tspan></text>
+     y="0">SCK</tspan></text>
                 </g><text
      x="17.945274"
      y="71.9179"
@@ -529,13 +507,17 @@
      font-size="6px"
      id="text65"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#010101"><tspan
-       id="tspan5"
+       id="tspan10"
        x="17.945274"
-       y="71.9179">MH-SD Card</tspan></text><text
+       y="71.9179">nRF24L01+</tspan></text><text
      x="24.0732"
      y="79.117897"
      font-family="'Noto Sans'"
      fill="#010101"
      font-size="6px"
-     id="text66">Module</text></g>
+     id="text66"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#010101"><tspan
+       id="tspan11"
+       x="24.0732"
+       y="79.117897">trema</tspan></text></g>
 </svg>
