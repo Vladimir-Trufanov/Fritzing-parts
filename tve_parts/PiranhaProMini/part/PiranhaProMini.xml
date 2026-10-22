@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <module fritzingVersion="0.3.15b.02.03.3943" moduleId="PiranhaProMini" referenceFile="Arduino-Pro-Mini_5v-v14.fzp">
- <author>Vladimir Trufanov</author>
  <title>Piranha Pro Mini</title>
+ <author>Vladimir Trufanov</author>
  <label>PiranhaProMini</label>
  <date>Sun Oct 18 2026</date>
  <url>https://www.doortry.ru</url>
- <version>2</version>
+ <version>2.1.1</version>
  <tags>
   <tag>arduino</tag>
   <tag>PiranhaProMini</tag>
@@ -14,10 +14,14 @@
   <tag>tve-parts</tag>
  </tags>
  <properties>
+  <property name="package">Pack-tve</property>
+  <property name="part number">17</property>
+  <property name="variant">2.1.1</property>
   <property name="family">microcontroller board (arduino)</property>
   <property name="type">Piranha Pro Mini</property>
   <property name="variant">variant 2</property>
   <property name="part number"></property>
+  <property name="размер">32.756 х 18.048 мм</property>
  </properties>
  <views>
   <iconView>
@@ -133,7 +137,7 @@
     </pcbView>
    </views>
   </connector>
-  <connector id="connector31" name="A1" type="female">
+  <connector id="connector31" name="A1" type="male">
    <description>A1</description>
    <views>
     <breadboardView>
@@ -146,7 +150,7 @@
     </pcbView>
    </views>
   </connector>
-  <connector id="connector32" name="A0" type="female">
+  <connector id="connector32" name="A0" type="male">
    <description>A0</description>
    <views>
     <breadboardView>
@@ -160,7 +164,7 @@
    </views>
   </connector>
 
-  <!-- ������������� ������� ���� ����� -->
+  <!-- Позиционируем крайние пины снизу -->
   <connector id="connector25" name="RAW" type="male">
    <description>RAW</description>
    <views>
@@ -188,6 +192,156 @@
     </pcbView>
    </views>
   </connector>
+  
+  <connector id="connector33" name="SCK" type="male">
+   <description>SCK</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector33pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector33pin" terminalId="connector33terminal"/>
+    </schematicView>
+    <pcbView>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector34" name="MISO" type="male">
+   <description>MISO</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector34pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector34pin" terminalId="connector34terminal"/>
+    </schematicView>
+    <pcbView>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector35" name="MOSI" type="male">
+   <description>MOSI</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector35pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector35pin" terminalId="connector35terminal"/>
+    </schematicView>
+    <pcbView>
+    </pcbView>
+   </views>
+  </connector>
+  
+    <connector id="connector37" name="D9" type="male">
+   <description>D9</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector37pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector37pin" terminalId="connector37terminal"/>
+    </schematicView>
+    <pcbView>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector38" name="D8" type="male">
+   <description>D8</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector38pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector38pin" terminalId="connector38terminal"/>
+    </schematicView>
+    <pcbView>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector39" name="D7" type="male">
+   <description>D7</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector39pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector39pin" terminalId="connector39terminal"/>
+    </schematicView>
+    <pcbView>
+     <!-- 
+     <p layer="copper0" svgId="connector39pad"/>
+     <p layer="copper1" svgId="connector39pad"/>
+     -->
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector40" name="D6" type="male">
+   <description>D6</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector40pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector40pin" terminalId="connector40terminal"/>
+    </schematicView>
+    <pcbView>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector41" name="D5" type="male">
+   <description>D5</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector41pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector41pin" terminalId="connector41terminal"/>
+    </schematicView>
+    <pcbView>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector42" name="D4" type="male">
+   <description>D4</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector42pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector42pin" terminalId="connector42terminal"/>
+    </schematicView>
+    <pcbView>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector43" name="D3" type="male">
+   <description>D3</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector43pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector43pin" terminalId="connector43terminal"/>
+    </schematicView>
+    <pcbView>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector44" name="D2" type="male">
+   <description>D2</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector44pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector44pin" terminalId="connector44terminal"/>
+    </schematicView>
+    <pcbView>
+    </pcbView>
+   </views>
+  </connector>
+
 
   <!-- 
   <connector id="connector19" name="GND" type="female">
@@ -308,171 +462,6 @@
     </pcbView>
    </views>
   </connector>
-  <connector id="connector33" name="SCK" type="female">
-   <description>SCK</description>
-   <views>
-    <breadboardView>
-     <p layer="breadboard" svgId="connector33pin"/>
-    </breadboardView>
-    <schematicView>
-     <p layer="schematic" svgId="connector33pin" terminalId="connector33terminal"/>
-    </schematicView>
-    <pcbView>
-     <p layer="copper0" svgId="connector33pad"/>
-     <p layer="copper1" svgId="connector33pad"/>
-    </pcbView>
-   </views>
-  </connector>
-  <connector id="connector34" name="MISO" type="female">
-   <description>MISO</description>
-   <views>
-    <breadboardView>
-     <p layer="breadboard" svgId="connector34pin"/>
-    </breadboardView>
-    <schematicView>
-     <p layer="schematic" svgId="connector34pin" terminalId="connector34terminal"/>
-    </schematicView>
-    <pcbView>
-     <p layer="copper0" svgId="connector34pad"/>
-     <p layer="copper1" svgId="connector34pad"/>
-    </pcbView>
-   </views>
-  </connector>
-  <connector id="connector35" name="MOSI" type="female">
-   <description>MOSI</description>
-   <views>
-    <breadboardView>
-     <p layer="breadboard" svgId="connector35pin"/>
-    </breadboardView>
-    <schematicView>
-     <p layer="schematic" svgId="connector35pin" terminalId="connector35terminal"/>
-    </schematicView>
-    <pcbView>
-     <p layer="copper0" svgId="connector35pad"/>
-     <p layer="copper1" svgId="connector35pad"/>
-    </pcbView>
-   </views>
-  </connector>
-  <connector id="connector37" name="D9" type="female">
-   <description>D9</description>
-   <views>
-    <breadboardView>
-     <p layer="breadboard" svgId="connector37pin"/>
-    </breadboardView>
-    <schematicView>
-     <p layer="schematic" svgId="connector37pin" terminalId="connector37terminal"/>
-    </schematicView>
-    <pcbView>
-     <p layer="copper0" svgId="connector37pad"/>
-     <p layer="copper1" svgId="connector37pad"/>
-    </pcbView>
-   </views>
-  </connector>
-  <connector id="connector38" name="D8" type="female">
-   <description>D8</description>
-   <views>
-    <breadboardView>
-     <p layer="breadboard" svgId="connector38pin"/>
-    </breadboardView>
-    <schematicView>
-     <p layer="schematic" svgId="connector38pin" terminalId="connector38terminal"/>
-    </schematicView>
-    <pcbView>
-     <p layer="copper0" svgId="connector38pad"/>
-     <p layer="copper1" svgId="connector38pad"/>
-    </pcbView>
-   </views>
-  </connector>
-  <connector id="connector39" name="D7" type="female">
-   <description>D7</description>
-   <views>
-    <breadboardView>
-     <p layer="breadboard" svgId="connector39pin"/>
-    </breadboardView>
-    <schematicView>
-     <p layer="schematic" svgId="connector39pin" terminalId="connector39terminal"/>
-    </schematicView>
-    <pcbView>
-     <p layer="copper0" svgId="connector39pad"/>
-     <p layer="copper1" svgId="connector39pad"/>
-    </pcbView>
-   </views>
-  </connector>
-  <connector id="connector40" name="D6" type="female">
-   <description>D6</description>
-   <views>
-    <breadboardView>
-     <p layer="breadboard" svgId="connector40pin"/>
-    </breadboardView>
-    <schematicView>
-     <p layer="schematic" svgId="connector40pin" terminalId="connector40terminal"/>
-    </schematicView>
-    <pcbView>
-     <p layer="copper0" svgId="connector40pad"/>
-     <p layer="copper1" svgId="connector40pad"/>
-    </pcbView>
-   </views>
-  </connector>
-  <connector id="connector41" name="D5" type="female">
-   <description>D5</description>
-   <views>
-    <breadboardView>
-     <p layer="breadboard" svgId="connector41pin"/>
-    </breadboardView>
-    <schematicView>
-     <p layer="schematic" svgId="connector41pin" terminalId="connector41terminal"/>
-    </schematicView>
-    <pcbView>
-     <p layer="copper0" svgId="connector41pad"/>
-     <p layer="copper1" svgId="connector41pad"/>
-    </pcbView>
-   </views>
-  </connector>
-  <connector id="connector42" name="D4" type="female">
-   <description>D4</description>
-   <views>
-    <breadboardView>
-     <p layer="breadboard" svgId="connector42pin"/>
-    </breadboardView>
-    <schematicView>
-     <p layer="schematic" svgId="connector42pin" terminalId="connector42terminal"/>
-    </schematicView>
-    <pcbView>
-     <p layer="copper0" svgId="connector42pad"/>
-     <p layer="copper1" svgId="connector42pad"/>
-    </pcbView>
-   </views>
-  </connector>
-  <connector id="connector43" name="D3" type="female">
-   <description>D3</description>
-   <views>
-    <breadboardView>
-     <p layer="breadboard" svgId="connector43pin"/>
-    </breadboardView>
-    <schematicView>
-     <p layer="schematic" svgId="connector43pin" terminalId="connector43terminal"/>
-    </schematicView>
-    <pcbView>
-     <p layer="copper0" svgId="connector43pad"/>
-     <p layer="copper1" svgId="connector43pad"/>
-    </pcbView>
-   </views>
-  </connector>
-  <connector id="connector44" name="D2" type="female">
-   <description>D2</description>
-   <views>
-    <breadboardView>
-     <p layer="breadboard" svgId="connector44pin"/>
-    </breadboardView>
-    <schematicView>
-     <p layer="schematic" svgId="connector44pin" terminalId="connector44terminal"/>
-    </schematicView>
-    <pcbView>
-     <p layer="copper0" svgId="connector44pad"/>
-     <p layer="copper1" svgId="connector44pad"/>
-    </pcbView>
-   </views>
-  </connector>
   <connector id="connector45" name="GND" type="female">
    <description>GND</description>
    <views>
@@ -568,7 +557,7 @@ hr { height: 1px; border-width: 0; }
 li.unchecked::marker { content: "\2610"; }
 li.checked::marker { content: "\2612"; }
 &lt;/style>&lt;/head>&lt;body style=" font-family:'Segoe UI'; font-size:9pt; font-weight:400; font-style:normal;">
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Контроллер для ардуино - PiranhaProMini&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Аналог Arduino Pro Mini, сделанный iarduino - PiranhaProMini&lt;/p>
 &lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">&lt;br />&lt;/p>&lt;/body>&lt;/html></description>
 
 </module>

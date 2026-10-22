@@ -4,8 +4,8 @@
 <svg
    height="2.3097212in"
    version="1.2"
-   viewBox="0 0 38.346918 58.666921"
-   width="1.5097212in"
+   viewBox="0 0 38.346915 58.666921"
+   width="1.509721in"
    x="0in"
    y="0in"
    id="svg36"
@@ -52,7 +52,8 @@
        text-anchor="end"
        x="32.52607"
        y="13.070374"
-       id="text1">D13/SCK</text>
+       id="text1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D13/SCK</text>
     <rect
        class="terminal"
        fill="none"
@@ -86,7 +87,8 @@
        text-anchor="end"
        x="32.52607"
        y="15.610373"
-       id="text2">D12/MISO</text>
+       id="text2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D12/MISO</text>
     <rect
        class="terminal"
        fill="none"
@@ -120,7 +122,8 @@
        text-anchor="end"
        x="32.52607"
        y="18.150372"
-       id="text3">D11 PWM/MOSI</text>
+       id="text3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D11 PWM/MOSI</text>
     <rect
        class="terminal"
        fill="none"
@@ -189,7 +192,8 @@
        text-anchor="end"
        x="32.52607"
        y="25.770372"
-       id="text5">D9 PWM</text>
+       id="text5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D9 PWM</text>
     <rect
        class="terminal"
        fill="none"
@@ -223,7 +227,8 @@
        text-anchor="end"
        x="32.52607"
        y="28.310371"
-       id="text6">D8</text>
+       id="text6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D8</text>
     <rect
        class="terminal"
        fill="none"
@@ -257,7 +262,8 @@
        text-anchor="end"
        x="32.52607"
        y="30.850372"
-       id="text7">D7</text>
+       id="text7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D7</text>
     <rect
        class="terminal"
        fill="none"
@@ -291,7 +297,8 @@
        text-anchor="end"
        x="32.52607"
        y="33.390373"
-       id="text8">D6 PWM</text>
+       id="text8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D6 PWM</text>
     <rect
        class="terminal"
        fill="none"
@@ -325,7 +332,8 @@
        text-anchor="end"
        x="32.52607"
        y="35.930374"
-       id="text9">D5 PWM</text>
+       id="text9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D5 PWM</text>
     <rect
        class="terminal"
        fill="none"
@@ -359,7 +367,8 @@
        text-anchor="end"
        x="32.52607"
        y="38.470375"
-       id="text10">D4</text>
+       id="text10"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D4</text>
     <rect
        class="terminal"
        fill="none"
@@ -393,7 +402,8 @@
        text-anchor="end"
        x="32.52607"
        y="41.010376"
-       id="text11">D3 PWM</text>
+       id="text11"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D3 PWM</text>
     <rect
        class="terminal"
        fill="none"
@@ -427,7 +437,8 @@
        text-anchor="end"
        x="32.52607"
        y="43.550373"
-       id="text12">D2</text>
+       id="text12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D2</text>
     <rect
        class="terminal"
        fill="none"
@@ -715,7 +726,7 @@
        id="connector31terminal"
        stroke="none"
        stroke-width="0"
-       width="0.246944"
+       width="2.7869442"
        x="-4.2529297e-08"
        y="22.859972" />
     <line
@@ -1106,12 +1117,14 @@
        stroke="none"
        stroke-width="0"
        text-anchor="middle"
-       x="19.332272"
-       y="26.293571"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0"><tspan
+       x="17.046478"
+       y="26.276079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99929px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0"
+       transform="scale(0.99976338,1.0002367)"><tspan
          id="tspan1"
-         x="19.332272"
-         y="26.293571">Piranha</tspan></text>
+         x="17.046478"
+         y="26.276079"
+         style="stroke-width:0">Piranha</tspan></text>
     <text
        class="text"
        fill="#000000"
@@ -1122,7 +1135,7 @@
        stroke="none"
        stroke-width="0"
        text-anchor="middle"
-       x="19.332272"
+       x="16.794266"
        y="29.116402"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0">Pro</text>
     <text
@@ -1135,7 +1148,7 @@
        stroke="none"
        stroke-width="0"
        text-anchor="middle"
-       x="19.332272"
+       x="16.79574"
        y="32.030048"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0">Mini</text>
     <text
@@ -1148,11 +1161,11 @@
        stroke="none"
        stroke-width="0"
        text-anchor="middle"
-       x="19.30448"
+       x="16.764481"
        y="34.241596"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0"><tspan
          id="tspan2"
-         x="19.30448"
+         x="16.764481"
          y="34.241596">v1.0.0</tspan></text>
   </g>
 </svg>
