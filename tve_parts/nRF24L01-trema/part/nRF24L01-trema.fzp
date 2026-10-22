@@ -7,7 +7,9 @@
 &lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
 &lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;">
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Блок 3 элементов питания AAA по 1.5В&lt;/p>&lt;/body>&lt;/html></description>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">
+Модуль радиосвязи на частоте 2,4 ГГц, основанный на чипе от Nordic Semiconductor nRF24L01+ &lt;/p
+>&lt;/body>&lt;/html></description>
  <title>nRF24L01-trema</title>
  <tags>
   <tag>nRF24L01</tag>
@@ -20,12 +22,12 @@ p, li { white-space: pre-wrap; }
   <property name="part number">001</property>
   <property name="variant">variant 2</property>
   <property name="Напряжение питания">1,9В – 3,6В</property>
-  <property name="Частота приёма и передачи">2,4 ГГц</property>
-  <property name="Количество каналов">128 с шагом 1МГц</property>
-  <property name="Скорость передачи данных">250kbps, 1Mbps и 2Mbps</property>
-  <property name="Чувствительность приёмника">-82 dBm</property>
-  <property name="Расстояние приёма/передачи данных">100м – прямая видимость, 30м – помещение</property>
-  <property name="Организация сети на одном канале">7 модулей, 1 приёмник и 6 передатчиков</property>
+  <property name="Частота обмена">2,4 ГГц</property>
+  <property name="Число каналов">128 с шагом 1МГц</property>
+  <property name="Скорость передачи">250kbps, 1Mbps и 2Mbps</property>
+  <property name="Чувствительность">-82 dBm</property>
+  <property name="Расстояние обмена данных">100м – прямая видимость, 30м – помещение</property>
+  <property name="Сеть на одном канале">7 модулей, 1 приёмник и 6 передатчиков</property>
  </properties>
  
  <views>
