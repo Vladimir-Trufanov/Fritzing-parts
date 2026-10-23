@@ -4,8 +4,8 @@
 <svg
    height="2.3097212in"
    version="1.2"
-   viewBox="0 0 38.346915 58.666921"
-   width="1.509721in"
+   viewBox="0 0 38.346918 58.666921"
+   width="1.5097212in"
    x="0in"
    y="0in"
    id="svg36"
@@ -856,7 +856,8 @@
        text-anchor="start"
        x="5.8208323"
        y="33.390373"
-       id="text22">A5</text>
+       id="text22"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0">A5</text>
     <rect
        class="terminal"
        fill="none"
@@ -1120,7 +1121,7 @@
        x="17.046478"
        y="26.276079"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99929px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0"
-       transform="scale(0.99976338,1.0002367)"><tspan
+       transform="scale(0.99976337,1.0002367)"><tspan
          id="tspan1"
          x="17.046478"
          y="26.276079"

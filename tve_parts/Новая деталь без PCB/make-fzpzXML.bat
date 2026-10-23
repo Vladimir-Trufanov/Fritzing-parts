@@ -1,6 +1,6 @@
 @ECHO OFF
 REM make-fzpz
-REM Author: Mike Pilgrem
+REM Author: Mike Pilgrem and Vladimir Trufanov
 
 REM Creates a *.fzpz file for a single Fritzing part. For further information
 REM run:
@@ -12,12 +12,8 @@ IF "%1" == "-h" GOTO HELP
 IF "%1" == "--help" GOTO HELP
 
 REM Check all is in order
-IF NOT EXIST part\%1.fzp (
-    ECHO File part\%1.fzp expected but not found.
-    GOTO END
-)
-IF NOT EXIST svg\icon\%1_icon.svg (
-    ECHO File svg\icon\%1_icon.svg expected but not found.
+IF NOT EXIST part\%1.xml (
+    ECHO File part\%1.xml expected but not found.
     GOTO END
 )
 IF NOT EXIST svg\breadboard\%1_breadboard.svg (
@@ -28,10 +24,6 @@ IF NOT EXIST svg\schematic\%1_schematic.svg (
     ECHO svg\schematic\%1_schematic.svg expected but not found.
     GOTO END
 )
-rem IF NOT EXIST svg\pcb\%1_pcb.svg (
-rem     ECHO File svg\pcb\%1_pcb.svg expected but not found.
-rem     GOTO END
-rem )
 
 REM Remove partname.fzpz file if it already exists, with warning
 IF EXIST %1.fzpz (
@@ -43,17 +35,16 @@ IF EXIST %1.fzpz (
 )
 
 REM Prepare copies of files for archive, silently
-COPY part\%1.fzp part.%1.fzp >NUL
-COPY svg\icon\%1_icon.svg svg.icon.%1_icon.svg >NUL
+COPY part\%1.xml part.%1.fzp >NUL
+COPY svg\breadboard\%1_breadboard.svg svg.icon.%1_icon.svg >NUL
 COPY svg\breadboard\%1_breadboard.svg svg.breadboard.%1_breadboard.svg >NUL
 COPY svg\schematic\%1_schematic.svg svg.schematic.%1_schematic.svg >NUL
-rem COPY svg\pcb\%1_pcb.svg svg.pcb.%1_pcb.svg >NUL
 
 REM Add the files to the zip archive partname.fzpz, silently
-7z a -tzip %1.fzpz part.%1.fzp svg.icon.%1_icon.svg svg.breadboard.%1_breadboard.svg svg.schematic.%1_schematic.svg svg.pcb.%1_pcb.svg >NUL
+7z a -tzip %1.fzpz part.%1.fzp svg.icon.%1_icon.svg svg.breadboard.%1_breadboard.svg svg.schematic.%1_schematic.svg >NUL
 
 REM Clean up
-DEL part.%1.fzp svg.icon.%1_icon.svg svg.breadboard.%1_breadboard.svg svg.schematic.%1_schematic.svg svg.pcb.%1_pcb.svg
+DEL part.%1.fzp svg.icon.%1_icon.svg svg.breadboard.%1_breadboard.svg svg.schematic.%1_schematic.svg 
 
 REM Report
 ECHO New file %1.fzpz has been created.
@@ -64,15 +55,15 @@ GOTO END
 ECHO Creates a *.fzpz file for a single Fritzing part. Requires application
 ECHO 7-Zip (7z.exe) to be in the path.
 ECHO.
-ECHO.  make-fzpz [/?^|-h^|--help] ^<partname^>
+ECHO.  make-fzpzXML [/?^|-h^|--help] ^<partname^>
 ECHO.
-ECHO ^<partname^>     Name of the Fritzing part. The name must not include
+ECHO ^<partname^>   Name of the Fritzing part. The name must not include
 ECHO.               spaces.
 ECHO./?^|-h^|--help   Displays this message.
 ECHO.
 ECHO The *.fzp and *.svg files for the part are assumed to exist in folders
 ECHO \part, \svg\icon, \svg\breadboard, \svg\schematic and \svg\pcb, with names
-ECHO ^<partname^>.fzp
+ECHO ^<partname^>.xml
 ECHO ^<partname^>_^<view^>.svg
 ECHO.
 ECHO Where ^<view^> is one of icon, breadboard, schematic or pcb.
@@ -81,7 +72,8 @@ ECHO.
 :END
 
 REM ----------------------------------------------------------------------------
-REM Copyright (c) 2015, Mike Pilgrem
+REM Copyright (c) 2015, Mike Pilgrem; 2026, Vladimir Trufanov
+
 REM All rights reserved.
 
 REM Redistribution and use in source and binary forms, with or without
