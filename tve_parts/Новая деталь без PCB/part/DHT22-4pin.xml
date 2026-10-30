@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module fritzingVersion="0.7.0b.02.01.5801" moduleId="DHT22-4pin" referenceFile="Humidity_and_Temperature_Sensor_RHT03.fzp">
+ <author>Martha Maldonado - Vladimir Trufanov</author>
+ <title>DHT22/am2302 - Датчик температуры и влажности</title>
+ <label>DHT22</label>
+ <date>Sun Oct 25 2026</date>
+ <url>https://www.doortry.ru</url>
+ <version>1.0.0</version>
+
+ <tags>
+  <tag>DHT22</tag>
+  <tag>DHT11</tag>
+  <tag>am2302</tag>
+  <tag>humedad</tag>
+  <tag>humidity</tag>
+  <tag>temperatura</tag>
+ </tags>
+
+ <properties>
+  <property name="package">pack-tve</property>
+  <property name="pack-tve">20</property>
+  <property name="part number"></property>
+  <property name="family">Sensors</property>
+  <property name="type"></property>
+  <property name="layer"></property>
+  <property name="mpn"></property>
+  <property name="mn"></property>
+  <property name="питание">от 3,3V до 5,5V</property>
+  <property name="влажность">от 0 до 100%</property>
+  <property name="погрешность влажности">5%</property>
+  <property name="температура">от -40 до 125°C</property>
+  <property name="погрешность температуры">2%</property>
+  <property name="частота опроса">не более 1 раза в сек</property>
+  <property name="отклик">10 сек</property>
+ </properties>
+
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'Ubuntu'; font-size:11pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">DHT22/am2302 - Датчик температуры и влажности&lt;/p>&lt;/body>&lt;/html>
+ </description>
+ 
+ <views>
+ <iconView>
+  <layers image="icon/DHT22-4pin_icon.svg">
+   <layer layerId="icon"/>
+  </layers>
+ </iconView>
+ <breadboardView>
+  <layers image="breadboard/DHT22-4pin_breadboard.svg">
+   <layer layerId="breadboard"/>
+  </layers>
+ </breadboardView>
+ <schematicView>
+  <layers image="schematic/DHT22-4pin_schematic.svg">
+   <layer layerId="schematic"/>
+  </layers>
+ </schematicView>
+ </views>
+ <!-- 
+ -->
+ 
+ <connectors>
+  <connector id="connector8" name="VCC" type="male">
+   <description>3.3V - 5.5V DC</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector8pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector8pin" terminalId="connector8terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+  
+  <connector id="connector9" name="DATA" type="male">
+   <description>Контакт напрямую подключается к цифровому пину контроллера, а также с помощью резистора на 1 Ком к Vcc</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector9pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector9pin" terminalId="connector9terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+
+  <connector id="connector10" name="NC" type="male">
+   <description></description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector10pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector10pin" terminalId="connector10terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+  
+  <connector id="connector11" name="GND" type="male">
+   <description>Ground connection</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector11pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector11pin" terminalId="connector11terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+ </connectors>
+</module>
