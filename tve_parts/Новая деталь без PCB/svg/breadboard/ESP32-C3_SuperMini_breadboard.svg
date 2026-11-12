@@ -1,0 +1,1213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   gorn="0"
+   height="1.5973632in"
+   id="breadboard"
+   version="1.2"
+   viewBox="0 0 73.889784 115.00959"
+   width="1.0262477in"
+   x="0px"
+   xml:space="preserve"
+   y="0px"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><defs
+   id="defs175">
+        
+    
+            
+        
+                
+            
+                    
+                
+                        
+                    
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        </defs>
+    <desc
+   id="desc1">
+        <referenceFile>breadboard.svg</referenceFile>
+    </desc>
+    
+<g
+   id="breadboard1"
+   transform="translate(-1.1362755e-7,6.3720736)"><path
+     d="M 0.18889002,0.28331175 0.10389602,48.981237 0.08499586,59.810221 1.1362755e-7,108.50914 73.700888,108.63777 73.889778,0.41194415 Z"
+     fill="#337380"
+     gorn="0.1.0.0.0.0.0.0"
+     id="Huzzah_PCB"
+     style="fill:#2b0000" /><rect
+     fill="#285a63"
+     gorn="0.1.0.0.0.0.0.1"
+     height="31.856001"
+     id="ESP-12_PCB"
+     width="70.866997"
+     x="37.357521"
+     y="-53.086899"
+     transform="rotate(90.1)"
+     style="fill:#2b0000" /><rect
+     fill="#cccccf"
+     gorn="0.1.0.0.0.0.0.3"
+     height="27.974001"
+     id="AI_Thinker_Metal_Cover"
+     stroke="#000000"
+     stroke-miterlimit="1"
+     stroke-width="0.3554"
+     width="42.789001"
+     x="38.980522"
+     y="-51.063889"
+     transform="rotate(90.1)" /><g
+     transform="translate(24.874805,52.571448)"
+     id="tESP32c3">
+                                <g
+   id="g19">
+                                    <g
+   id="g18">
+                                        <g
+   id="g17">
+                                            <g
+   id="g16">
+                                                <text
+   font-family="OCRA"
+   font-size="5px"
+   id="text15"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+     id="tspan194"
+     x="0"
+     y="0">ESP32C3</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     transform="translate(33.184973,138.24434)"
+     id="sMini">
+                                <g
+   id="g19-6"
+   transform="translate(-3.1181082,-67.180982)">
+                                    <g
+   id="g18-4">
+                                        <g
+   id="g17-3">
+                                            <g
+   id="g16-0">
+                                                <text
+   font-family="OCRA"
+   font-size="5px"
+   id="text15-9"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+     id="tspan197"
+     x="0"
+     y="0">Mini</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     transform="translate(28.118049,64.74227)"
+     id="sSuper">
+                                <g
+   id="g19-6-9">
+                                    <g
+   id="g18-4-8">
+                                        <g
+   id="g17-3-8">
+                                            <g
+   id="g16-0-4">
+                                                <text
+   font-family="OCRA"
+   font-size="5px"
+   id="text15-9-9"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+     id="tspan196"
+     x="0"
+     y="0">Super</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     id="pTX"
+     transform="rotate(90.1,310.14999,200.67613)">
+                                <circle
+   cx="200.181"
+   cy="506.29001"
+   fill="#383938"
+   r="1.196"
+   id="circle25" />
+                                <circle
+   cx="200.181"
+   cy="506.29001"
+   fill="none"
+   gorn="0.1.0.0.0.0.0.9.1"
+   id="connector21pin"
+   r="1.584"
+   stroke="#9a916c"
+   stroke-width="1.152" />
+                            </g><g
+     id="pRX"
+     transform="rotate(90.1,310.14999,200.67613)">
+                                <circle
+   cx="192.981"
+   cy="506.29001"
+   fill="#383938"
+   r="1.196"
+   id="circle26" />
+                                <circle
+   cx="192.981"
+   cy="506.29001"
+   fill="none"
+   gorn="0.1.0.0.0.0.0.10.1"
+   id="connector20pin"
+   r="1.584"
+   stroke="#9a916c"
+   stroke-width="1.152" />
+                            </g><g
+     id="p10"
+     transform="rotate(90.1,310.14999,200.67613)">
+                                <circle
+   cx="185.78101"
+   cy="506.26199"
+   fill="#383938"
+   r="1.196"
+   id="circle27" />
+                                <circle
+   cx="185.78101"
+   cy="506.26199"
+   fill="none"
+   gorn="0.1.0.0.0.0.0.11.1"
+   id="connector10pin"
+   r="1.584"
+   stroke="#9a916c"
+   stroke-width="1.152" />
+                            </g><g
+     id="pSCL"
+     transform="rotate(90.1,310.14999,200.67613)">
+                                <circle
+   cx="178.58099"
+   cy="506.26199"
+   fill="#383938"
+   r="1.196"
+   id="circle28" />
+                                <circle
+   cx="178.58099"
+   cy="506.26199"
+   fill="none"
+   gorn="0.1.0.0.0.0.0.12.1"
+   id="connector9pin"
+   r="1.584"
+   stroke="#9a916c"
+   stroke-width="1.152" />
+                            </g><g
+     id="pSDA"
+     transform="rotate(90.1,310.14999,200.67613)">
+                                <circle
+   cx="171.381"
+   cy="506.29001"
+   fill="#383938"
+   r="1.196"
+   id="circle29" />
+                                <circle
+   cx="171.381"
+   cy="506.29001"
+   fill="none"
+   gorn="0.1.0.0.0.0.0.13.1"
+   id="connector8pin"
+   r="1.584"
+   stroke="#9a916c"
+   stroke-width="1.152" />
+                            </g><g
+     id="pSS"
+     transform="rotate(90.1,310.14999,200.67613)">
+                                <circle
+   cx="164.181"
+   cy="506.29099"
+   fill="#383938"
+   r="1.196"
+   id="circle30" />
+                                <circle
+   cx="164.181"
+   cy="506.29099"
+   fill="none"
+   gorn="0.1.0.0.0.0.0.14.1"
+   id="connector7pin"
+   r="1.584"
+   stroke="#9a916c"
+   stroke-width="1.152" />
+                            </g><g
+     id="pMOSI"
+     transform="rotate(90.1,310.14999,200.67613)">
+                                <circle
+   cx="156.981"
+   cy="506.29099"
+   fill="#383938"
+   r="1.196"
+   id="circle31" />
+                                <circle
+   cx="156.981"
+   cy="506.29099"
+   fill="none"
+   gorn="0.1.0.0.0.0.0.15.1"
+   id="connector6pin"
+   r="1.584"
+   stroke="#9a916c"
+   stroke-width="1.152" />
+                            </g><g
+     id="pMISO"
+     transform="rotate(90.1,310.14999,200.67613)">
+                                <circle
+   cx="149.78101"
+   cy="506.29099"
+   fill="#383938"
+   r="1.196"
+   id="circle32" />
+                                <circle
+   cx="149.78101"
+   cy="506.29099"
+   fill="none"
+   gorn="0.1.0.0.0.0.0.16.1"
+   id="connector5pin"
+   r="1.584"
+   stroke="#9a916c"
+   stroke-width="1.152" />
+                            </g><g
+     id="pA0"
+     transform="rotate(90.1,310.14999,200.67613)">
+                                <circle
+   cx="200.181"
+   cy="441.51599"
+   fill="#383938"
+   r="1.196"
+   id="circle35" />
+                                <circle
+   cx="200.181"
+   cy="441.51599"
+   fill="none"
+   gorn="0.1.0.0.0.0.0.19.1"
+   id="connector0pin"
+   r="1.584"
+   stroke="#9a916c"
+   stroke-width="1.152" />
+                            </g><g
+     id="pA1"
+     transform="rotate(90.1,310.14999,200.67613)">
+                                <circle
+   cx="192.981"
+   cy="441.51599"
+   fill="#383938"
+   r="1.196"
+   id="circle36" />
+                                <circle
+   cx="192.981"
+   cy="441.51599"
+   fill="none"
+   gorn="0.1.0.0.0.0.0.20.1"
+   id="connector1pin"
+   r="1.584"
+   stroke="#9a916c"
+   stroke-width="1.152" />
+                            </g><g
+     id="pA2"
+     transform="rotate(90.1,310.14999,200.67613)">
+                                <circle
+   cx="185.78101"
+   cy="441.48901"
+   fill="#383938"
+   r="1.196"
+   id="circle37" />
+                                <circle
+   cx="185.78101"
+   cy="441.48901"
+   fill="none"
+   gorn="0.1.0.0.0.0.0.21.1"
+   id="connector2pin"
+   r="1.584"
+   stroke="#9a916c"
+   stroke-width="1.152" />
+                            </g><g
+     id="pA3"
+     transform="rotate(90.1,310.14999,200.67613)">
+                                <circle
+   cx="178.58099"
+   cy="441.48901"
+   fill="#383938"
+   r="1.196"
+   id="circle38" />
+                                <circle
+   cx="178.58099"
+   cy="441.48901"
+   fill="none"
+   gorn="0.1.0.0.0.0.0.22.1"
+   id="connector3pin"
+   r="1.584"
+   stroke="#9a916c"
+   stroke-width="1.152" />
+                            </g><g
+     id="pSCK"
+     transform="rotate(90.1,310.14999,200.67613)">
+                                <circle
+   cx="171.381"
+   cy="441.51599"
+   fill="#383938"
+   r="1.196"
+   id="circle39" />
+                                <circle
+   cx="171.381"
+   cy="441.51599"
+   fill="none"
+   gorn="0.1.0.0.0.0.0.23.1"
+   id="connector4pin"
+   r="1.584"
+   stroke="#9a916c"
+   stroke-width="1.152" />
+                            </g><g
+     id="p3V3"
+     transform="rotate(90.1,310.14999,200.67613)">
+                                <circle
+   cx="164.181"
+   cy="441.517"
+   fill="#383938"
+   r="1.196"
+   id="circle40" />
+                                <circle
+   cx="164.181"
+   cy="441.517"
+   fill="none"
+   gorn="0.1.0.0.0.0.0.24.1"
+   id="connector97pin"
+   r="1.584"
+   stroke="#9a916c"
+   stroke-width="1.152" />
+                            </g><g
+     id="pGND"
+     transform="rotate(90.1,310.14999,200.67613)">
+                                <circle
+   cx="156.981"
+   cy="441.517"
+   fill="#383938"
+   r="1.196"
+   id="circle41" />
+                                <circle
+   cx="156.981"
+   cy="441.517"
+   fill="none"
+   gorn="0.1.0.0.0.0.0.25.1"
+   id="connector98pin"
+   r="1.584"
+   stroke="#9a916c"
+   stroke-width="1.152" />
+                            </g><g
+     id="p5V"
+     transform="rotate(90.1,310.14999,200.67613)">
+                                <circle
+   cx="149.78101"
+   cy="441.517"
+   fill="#383938"
+   r="1.196"
+   id="circle42" />
+                                <circle
+   cx="149.78101"
+   cy="441.517"
+   fill="none"
+   gorn="0.1.0.0.0.0.0.26.1"
+   id="connector99pin"
+   r="1.584"
+   stroke="#9a916c"
+   stroke-width="1.152" />
+                            </g><g
+     transform="rotate(0.1,-23916.634,33394.44)"
+     id="s5V">
+                                <g
+   id="g63">
+                                    <g
+   id="g62">
+                                        <g
+   id="g61">
+                                            <g
+   id="g60">
+                                                <text
+   fill="#e6e6e6"
+   font-family="OCRA"
+   font-size="5px"
+   id="text59"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6"><tspan
+     id="tspan178"
+     x="0"
+     y="0">5V</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     transform="rotate(0.1,-28028.491,31320.009)"
+     id="sGND">
+                                <g
+   id="g68">
+                                    <g
+   id="g67">
+                                        <g
+   id="g66">
+                                            <g
+   id="g65">
+                                                <text
+   fill="#e6e6e6"
+   font-family="OCRA"
+   font-size="5px"
+   id="text64"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6"><tspan
+     id="tspan179"
+     x="0"
+     y="0">GND</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     transform="rotate(0.1,-32142.155,31316.419)"
+     id="s3V3">
+                                <g
+   id="g73">
+                                    <g
+   id="g72">
+                                        <g
+   id="g71">
+                                            <g
+   id="g70">
+                                                <text
+   fill="#e6e6e6"
+   font-family="OCRA"
+   font-size="5px"
+   id="text69"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6"><tspan
+     id="tspan180"
+     x="0"
+     y="0">3V3</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     transform="rotate(0.1,-36256.392,31312.829)"
+     id="sSCK">
+                                <g
+   id="g78">
+                                    <g
+   id="g77">
+                                        <g
+   id="g76">
+                                            <g
+   id="g75">
+                                                <text
+   fill="#e6e6e6"
+   font-family="OCRA"
+   font-size="5px"
+   id="text74"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6"><tspan
+     id="tspan181"
+     x="0"
+     y="0">SCK</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     transform="rotate(0.1,-40370.056,31309.239)"
+     id="sA3">
+                                <g
+   id="g83">
+                                    <g
+   id="g82">
+                                        <g
+   id="g81">
+                                            <g
+   id="g80">
+                                                <text
+   fill="#e6e6e6"
+   font-family="OCRA"
+   font-size="5px"
+   id="text79"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6"><tspan
+     id="tspan182"
+     x="0"
+     y="0"> A3</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     transform="rotate(0.1,-44485.47,33376.49)"
+     id="sA2">
+                                <g
+   id="g88">
+                                    <g
+   id="g87">
+                                        <g
+   id="g86">
+                                            <g
+   id="g85">
+                                                <text
+   fill="#e6e6e6"
+   font-family="OCRA"
+   font-size="5px"
+   id="text84"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6"><tspan
+     id="tspan183"
+     x="0"
+     y="0">A2</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     transform="rotate(0.1,-48603.308,33389.696)"
+     id="sA1">
+                                <g
+   id="g93">
+                                    <g
+   id="g92">
+                                        <g
+   id="g91">
+                                            <g
+   id="g90">
+                                                <text
+   fill="#e6e6e6"
+   font-family="OCRA"
+   font-size="5px"
+   id="text89"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6"><tspan
+     id="tspan184"
+     x="0"
+     y="0">A1</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     transform="rotate(0.1,-52711.564,31298.469)"
+     id="sA0">
+                                <g
+   id="g98">
+                                    <g
+   id="g97">
+                                        <g
+   id="g96">
+                                            <g
+   id="g95">
+                                                <text
+   fill="#e6e6e6"
+   font-family="OCRA"
+   font-size="5px"
+   id="text94"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6"><tspan
+     id="tspan185"
+     x="0"
+     y="0"> A0</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     transform="rotate(0.1,-15176.833,5076.3861)"
+     id="sBOOT">
+                                <g
+   id="g103">
+                                    <g
+   id="g102">
+                                        <g
+   id="g101">
+                                            <g
+   id="g100">
+                                                <text
+   fill="#e6e6e6"
+   font-family="OCRA"
+   font-size="5px"
+   id="text99"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6"
+   x="-5.2951226"
+   y="9.1858892"
+   transform="rotate(-90.1)"><tspan
+     id="tspan199"
+     x="-5.2951226"
+     y="9.1858892">BOOT</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     transform="rotate(-90,44.793223,-14.49061)"
+     id="sRST">
+                                <g
+   id="g103-5">
+                                    <g
+   id="g102-4">
+                                        <g
+   id="g101-8">
+                                            <g
+   id="g100-3">
+                                                <text
+   fill="#e6e6e6"
+   font-family="OCRA"
+   font-size="5px"
+   id="text99-5"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6"><tspan
+     id="tspan198"
+     x="0"
+     y="0">RST</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     transform="rotate(0.1,-23891.916,5069.4201)"
+     id="sMISO">
+                                <g
+   id="g113">
+                                    <g
+   id="g112">
+                                        <g
+   id="g111">
+                                            <g
+   id="g110">
+                                                <text
+   fill="#e6e6e6"
+   font-family="OCRA"
+   font-size="5px"
+   id="text109"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6"><tspan
+     id="tspan186"
+     x="0"
+     y="0">MIS</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     transform="rotate(0.1,-28005.58,5065.8303)"
+     id="sMOSI">
+                                <g
+   id="g118">
+                                    <g
+   id="g117">
+                                        <g
+   id="g116">
+                                            <g
+   id="g115">
+                                                <text
+   fill="#e6e6e6"
+   font-family="OCRA"
+   font-size="5px"
+   id="text114"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6"><tspan
+     id="tspan187"
+     x="0"
+     y="0">MOS</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     transform="rotate(0.1,-32119.244,5062.2405)"
+     id="sSS">
+                                <g
+   id="g123">
+                                    <g
+   id="g122">
+                                        <g
+   id="g121">
+                                            <g
+   id="g120">
+                                                <text
+   fill="#e6e6e6"
+   font-family="OCRA"
+   font-size="5px"
+   id="text119"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6"><tspan
+     id="tspan188"
+     x="0"
+     y="0">SS</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     transform="rotate(0.1,-36233.481,5058.6502)"
+     id="sSDA">
+                                <g
+   id="g128">
+                                    <g
+   id="g127">
+                                        <g
+   id="g126">
+                                            <g
+   id="g125">
+                                                <text
+   fill="#e6e6e6"
+   font-family="OCRA"
+   font-size="5px"
+   id="text124"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6"><tspan
+     id="tspan189"
+     x="0"
+     y="0">SDA</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     transform="rotate(0.1,-40347.145,5055.061)"
+     id="sSCL">
+                                <g
+   id="g133">
+                                    <g
+   id="g132">
+                                        <g
+   id="g131">
+                                            <g
+   id="g130">
+                                                <text
+   fill="#e6e6e6"
+   font-family="OCRA"
+   font-size="5px"
+   id="text129"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6"><tspan
+     id="tspan190"
+     x="0"
+     y="0">SCL</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     transform="rotate(0.1,-44460.752,5051.4713)"
+     id="s10">
+                                <g
+   id="g138">
+                                    <g
+   id="g137">
+                                        <g
+   id="g136">
+                                            <g
+   id="g135">
+                                                <text
+   fill="#e6e6e6"
+   font-family="OCRA"
+   font-size="5px"
+   id="text134"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6"><tspan
+     id="tspan191"
+     x="0"
+     y="0">10</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     transform="rotate(0.1,-48574.989,5047.8809)"
+     id="sRX">
+                                <g
+   id="g143">
+                                    <g
+   id="g142">
+                                        <g
+   id="g141">
+                                            <g
+   id="g140">
+                                                <text
+   fill="#e6e6e6"
+   font-family="OCRA"
+   font-size="5px"
+   id="text139"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6"><tspan
+     id="tspan192"
+     x="0"
+     y="0">RX</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     transform="rotate(0.1,-52688.653,5044.2918)"
+     id="sTX">
+                                <g
+   id="g148">
+                                    <g
+   id="g147">
+                                        <g
+   id="g146">
+                                            <g
+   id="g145">
+                                                <text
+   fill="#e6e6e6"
+   font-family="OCRA"
+   font-size="5px"
+   id="text144"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6"><tspan
+     id="tspan193"
+     x="0"
+     y="0">TX</tspan></text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g><g
+     gorn="0.77.0"
+     id="usb_c_cusb31-cfm2ax-01-x"
+     transform="translate(24.462983,-6.3722988)"><g
+       transform="rotate(180,12.671,10.786)"
+       id="g113-9"><g
+         gorn="0.77.0.0.0"
+         id="g2237"><g
+           gorn="0.77.0.0.0.0"
+           id="g2235"><rect
+             x="0"
+             y="0.73699898"
+             gorn="0.77.0.0.0.0.0"
+             id="rect2221"
+             width="25.341999"
+             fill="#dcdcdc"
+             height="20.834999" /><path
+             d="M 3.458,1.304 H 2.891 V 0 H 3.458 Z M 4.309,0 H 3.742 V 1.304 H 4.309 Z M 5.726,0 H 5.159 v 1.304 h 0.567 z m 0.85,0 H 6.009 v 1.304 h 0.567 z m 1.41802,0 h -0.567 v 1.304 h 0.567 z m 1.41696,0 h -0.567 v 1.304 h 0.567 z M 10.828,0 h -0.567 v 1.304 h 0.567 z m 1.418,0 h -0.567 v 1.304 h 0.567 z m 1.417,0 h -0.567 v 1.304 h 0.567 z m 1.417,0 h -0.567 v 1.304 h 0.567 z m 1.418,0 h -0.567 v 1.304 h 0.567 z m 1.417,0 h -0.567 v 1.304 h 0.567 z m 1.417,0 h -0.567 v 1.304 h 0.567 z m 0.851,0 h -0.567 v 1.304 h 0.567 z M 21.6,0 H 21.033 V 1.304 H 21.6 Z m 0.85,0 h -0.567 v 1.304 h 0.567 z"
+             gorn="0.77.0.0.0.0.1"
+             id="path2223"
+             fill="#dcdcdc" /><rect
+             x="2.0439999"
+             y="0.73699898"
+             gorn="0.77.0.0.0.0.2"
+             id="rect2225"
+             width="1.2970001"
+             fill="#f0f0f0"
+             height="20.834999" /><rect
+             x="22"
+             y="0.73699898"
+             gorn="0.77.0.0.0.0.3"
+             id="rect2227"
+             width="1.2970001"
+             fill="#bebebe"
+             height="20.834999" /><path
+             d="m 25.342,0.736999 v 1.998 h -0.283 c -0.344,0 -0.624,-0.279 -0.624,-0.624 V 1.579 c 0,-0.344 -0.279,-0.624 -0.624,-0.624 H 20.98 c -0.344,0 -0.624,0.279 -0.624,0.624 V 3.6 c 0,0.344 -0.279,0.624 -0.624,0.624 H 16.319 C 15.975,4.224 15.695,3.945 15.695,3.6 V 3.553 c 0,-0.344 0.279,-0.624 0.624,-0.624 h 1.536 c 0.344,0 0.624,-0.279 0.624,-0.624 V 1.579 c 0,-0.344 -0.279,-0.624 -0.624,-0.624 l -10.37002,1e-6 c -0.344,0 -0.624,0.279 -0.624,0.624 v 0.726998 c 0,0.344 0.279,0.624 0.624,0.624 h 1.536 c 0.344,0 0.624,0.279 0.624,0.624 V 3.6 c 0,0.344 -0.279,0.624 -0.624,0.624 H 5.608 C 5.264,4.224 4.984,3.945 4.984,3.6 V 1.579 C 4.984,1.235 4.705,0.955 4.36,0.955 l -2.83,1e-6 c -0.344,0 -0.624,0.279 -0.624,0.624 v 0.533 c 0,0.344 -0.279,0.624 -0.624,0.624 L 0,2.736 V 0.736999 Z"
+             gorn="0.77.0.0.0.0.4"
+             id="path2229"
+             fill="#8c8c8c" /><rect
+             x="5.8899999"
+             y="6.5539999"
+             gorn="0.77.0.0.0.0.5"
+             id="rect2231"
+             width="3.4630001"
+             fill="#8c8c8c"
+             height="1.424" /><g
+             transform="rotate(180,17.7198,7.26635)"
+             id="g112-7"><rect
+               x="15.988"
+               y="6.5539999"
+               gorn="0.77.0.0.0.0.6.0"
+               id="rect2233"
+               width="3.4630001"
+               fill="#8c8c8c"
+               height="1.424" /></g></g></g></g></g><g
+     id="btnRST"
+     transform="translate(10.31761,-18.348722)"><rect
+       x="21.743401"
+       y="39.686668"
+       gorn="0.26"
+       stroke="none"
+       stroke-width="0"
+       id="connector40pin"
+       width="2.5511799"
+       height="2.4094501"
+       fill="#9a916c" /><rect
+       x="10.1214"
+       y="39.686668"
+       gorn="0.27"
+       stroke="none"
+       stroke-width="0"
+       id="connector41pin"
+       width="2.5511799"
+       height="2.4094501"
+       fill="#9a916c" /><rect
+       x="21.743401"
+       y="44.363869"
+       gorn="0.28"
+       stroke="none"
+       stroke-width="0"
+       id="connector42pin"
+       width="2.5511799"
+       height="2.4094501"
+       fill="#9a916c" /><rect
+       x="10.1214"
+       y="44.363869"
+       gorn="0.29"
+       stroke="none"
+       stroke-width="0"
+       id="connector43pin"
+       width="2.5511799"
+       height="2.4094501"
+       fill="#9a916c" /><g
+       gorn="0.74.0"
+       id="g2702"
+       transform="translate(10.902,39.017895)"><g
+         transform="rotate(180,6.378,4.251995)"
+         id="g75-4"><g
+           gorn="0.74.0.0.0"
+           id="g2700"><g
+             gorn="0.74.0.0.0.0"
+             id="g2698"><polygon
+               gorn="0.74.0.0.0.0.0"
+               id="polygon2690"
+               points="12.756,5.811 11.339,5.811 11.339,2.692 12.756,2.692 12.756,1.275 11.339,1.275 11.339,0 1.417,0 1.417,1.275 0,1.275 0,2.692 1.417,2.692 1.417,5.811 0,5.811 0,7.22801 1.417,7.22801 1.417,8.50399 11.339,8.50399 11.339,7.22801 12.756,7.22801 "
+               fill="#dcdcdc" /><circle
+               r="2.48"
+               cx="6.3779998"
+               gorn="0.74.0.0.0.0.1"
+               id="circle2692"
+               cy="4.2519999"
+               fill="#1e1e1e" /><rect
+               x="0.99200201"
+               y="0"
+               gorn="0.74.0.0.0.0.2"
+               id="rect2694"
+               width="0.56699997"
+               height="8.5039902"
+               fill="#b4b4b4" /><rect
+               x="11.197"
+               y="0"
+               gorn="0.74.0.0.0.0.3"
+               id="rect2696"
+               width="0.56699997"
+               height="8.5039902"
+               fill="#b4b4b4" /></g></g></g></g></g><g
+     id="btnBOOT"
+     transform="translate(29.232888,-18.354134)"><rect
+       x="21.743401"
+       y="39.686668"
+       gorn="0.26"
+       stroke="none"
+       stroke-width="0"
+       id="connector40pin-9"
+       width="2.5511799"
+       height="2.4094501"
+       fill="#9a916c" /><rect
+       x="10.1214"
+       y="39.686668"
+       gorn="0.27"
+       stroke="none"
+       stroke-width="0"
+       id="connector41pin-6"
+       width="2.5511799"
+       height="2.4094501"
+       fill="#9a916c" /><rect
+       x="21.743401"
+       y="44.363869"
+       gorn="0.28"
+       stroke="none"
+       stroke-width="0"
+       id="connector42pin-1"
+       width="2.5511799"
+       height="2.4094501"
+       fill="#9a916c" /><rect
+       x="10.1214"
+       y="44.363869"
+       gorn="0.29"
+       stroke="none"
+       stroke-width="0"
+       id="connector43pin-2"
+       width="2.5511799"
+       height="2.4094501"
+       fill="#9a916c" /><g
+       gorn="0.74.0"
+       id="g2702-5"
+       transform="translate(10.902,39.017895)"><g
+         transform="rotate(180,6.378,4.251995)"
+         id="g75-4-4"><g
+           gorn="0.74.0.0.0"
+           id="g2700-0"><g
+             gorn="0.74.0.0.0.0"
+             id="g2698-0"><polygon
+               gorn="0.74.0.0.0.0.0"
+               id="polygon2690-7"
+               points="0,7.22801 1.417,7.22801 1.417,8.50399 11.339,8.50399 11.339,7.22801 12.756,7.22801 12.756,5.811 11.339,5.811 11.339,2.692 12.756,2.692 12.756,1.275 11.339,1.275 11.339,0 1.417,0 1.417,1.275 0,1.275 0,2.692 1.417,2.692 1.417,5.811 0,5.811 "
+               fill="#dcdcdc" /><circle
+               r="2.48"
+               cx="6.3779998"
+               gorn="0.74.0.0.0.0.1"
+               id="circle2692-4"
+               cy="4.2519999"
+               fill="#1e1e1e" /><rect
+               x="0.99200201"
+               y="0"
+               gorn="0.74.0.0.0.0.2"
+               id="rect2694-0"
+               width="0.56699997"
+               height="8.5039902"
+               fill="#b4b4b4" /><rect
+               x="11.197"
+               y="0"
+               gorn="0.74.0.0.0.0.3"
+               id="rect2696-9"
+               width="0.56699997"
+               height="8.5039902"
+               fill="#b4b4b4" /></g></g></g></g></g><g
+     id="dopel"
+     transform="rotate(-90.1,0.50074004,124.32259)"><g
+       gorn="0.42.0"
+       id="g2061"
+       transform="rotate(90,-34.842373,108.49703)"><rect
+         x="11.1603"
+         y="47.552299"
+         gorn="0.42.0.0"
+         stroke="none"
+         stroke-width="0"
+         id="connector56pin"
+         width="4.53543"
+         height="5.1023598"
+         fill="#9a916c" /></g><g
+       gorn="0.43.0"
+       id="g2064"
+       transform="rotate(90,-34.842373,116.43403)"><rect
+         x="11.1603"
+         y="55.4893"
+         gorn="0.43.0.0"
+         stroke="none"
+         stroke-width="0"
+         id="connector57pin"
+         width="4.53543"
+         height="5.1023598"
+         fill="#9a916c" /></g><g
+       gorn="0.73.0"
+       id="ant_2450at18b100"
+       transform="translate(18.732262,158.4682)"
+       style="fill:#a02c2c"><g
+         transform="rotate(90,4.81889,2.26771)"
+         id="g73-5"
+         style="fill:#a02c2c"><g
+           gorn="0.73.0.0.0"
+           id="g2218"
+           style="fill:#a02c2c"><defs
+             id="defs4461" /><metadata
+             id="metadata4464"><rdf:RDF><cc:Work
+                 rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+                   rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><g
+             transform="translate(0,-837.353)"
+             id="g72-7"
+             style="fill:#a02c2c"><g
+               gorn="0.73.0.0.0.2.0"
+               groupmode="layer"
+               id="layer1"
+               label="Layer 1"
+               style="fill:#a02c2c"><g
+                 transform="scale(-1,1)"
+                 id="g68-7"
+                 style="fill:#a02c2c"><rect
+                   x="-9.6377802"
+                   y="837.35303"
+                   gorn="0.73.0.0.0.2.0.0.0"
+                   style="fill:#a02c2c;stroke-miterlimit:4;stroke-dasharray:none"
+                   stroke-width="0"
+                   id="rect4523"
+                   fill-opacity="1"
+                   width="9.6377802"
+                   fill="#f2f2f2"
+                   height="4.5352402" /></g><g
+                 transform="scale(-1,1)"
+                 id="g69-0"
+                 style="fill:#a02c2c"><rect
+                   x="-9.6377802"
+                   y="837.35303"
+                   gorn="0.73.0.0.0.2.0.1.0"
+                   style="fill:#a02c2c;stroke-miterlimit:4;stroke-dasharray:none"
+                   stroke-width="0"
+                   id="rect4467"
+                   fill-opacity="1"
+                   width="1.20473"
+                   fill="#808080"
+                   height="4.5352402" /></g><g
+                 transform="scale(-1,1)"
+                 id="g70-4"
+                 style="fill:#a02c2c"><rect
+                   x="-1.20473"
+                   y="837.35303"
+                   gorn="0.73.0.0.0.2.0.2.0"
+                   style="fill:#a02c2c;stroke-miterlimit:4;stroke-dasharray:none"
+                   stroke-width="0"
+                   id="rect4489"
+                   fill-opacity="1"
+                   width="1.20473"
+                   fill="#808080"
+                   height="4.5352402" /></g><g
+                 transform="scale(-1,1)"
+                 id="g71-8"
+                 style="fill:#a02c2c"><rect
+                   x="-3.95085"
+                   y="838.65601"
+                   gorn="0.73.0.0.0.2.0.3.0"
+                   style="fill:#a02c2c;stroke-miterlimit:4;stroke-dasharray:none"
+                   stroke-width="0"
+                   id="rect4521"
+                   fill-opacity="1"
+                   width="1.79965"
+                   fill="#aa4400"
+                   height="1.88829" /></g></g></g></g></g></g></g></g></svg>

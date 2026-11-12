@@ -1,0 +1,261 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<module fritzingVersion="0.5.2b.02.18.4756" moduleId="ESP32-C3_SuperMini" referenceFile="QT Py ESP32-C3 rev A.fzp">
+
+ <!-- generated from tve -->
+ <author>ladyada - Vladimir Trufanov</author>
+ <title>ESP32-C3_SuperMini</title>
+ <label>ESP32-C3_SuperMini</label>
+ <date>2026-11-12</date>
+ <url>https://www.doortry.ru</url>
+ <version>1.0.0</version>
+
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'Ubuntu'; font-size:11pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">
+ESP32-C3_SuperMini&lt;/p>&lt;/body>&lt;/html>
+ </description>
+ 
+ <tags>
+  <tag>ESP32</tag>
+  <tag>ESP32-C3_SuperMini</tag>
+  <tag>PSRAM</tag>
+  <tag>флэш-память</tag>
+ </tags>
+
+ <properties>
+  <property name="package">pack-tve</property>
+  <property name="pack-tve">23</property>
+  <property name="part number"></property>
+  <property name="family">ESP32</property>
+  <property name="type"></property>
+  <property name="layer"></property>
+  <property name="mpn"></property>
+  <property name="mn"></property>
+  <property name="Процессор">32-бит RISC-V, 1 ядро</property>
+  <property name="Питание">5В через USB-C, 3.3В–6В через VIN</property>
+  <property name="ROM">384 КБ</property>
+  <property name="SRAM">400 KБ</property>
+  <property name="флэш">4 МБ</property>
+  <property name="Bluetooth">Bluetooth 5.0 LE</property>
+  <property name="Wi-Fi">802.11 b/g/n, 2.4 ГГц, до 150 Мбит/с</property>
+  <property name="Логика">3,3В для GPIO</property>
+ </properties>
+
+ <views>
+ <iconView>
+  <layers image="icon/ESP32-C3_SuperMini_icon.svg">
+   <layer layerId="icon"/>
+  </layers>
+ </iconView>
+ <breadboardView>
+  <layers image="breadboard/ESP32-C3_SuperMini_breadboard.svg">
+   <layer layerId="breadboard"/>
+  </layers>
+ </breadboardView>
+ <schematicView>
+  <layers image="schematic/ESP32-C3_SuperMini_schematic.svg">
+   <layer layerId="schematic"/>
+  </layers>
+ </schematicView>
+ </views>
+ <!-- 
+ -->
+
+ <connectors>
+  
+  <connector name="5V" type="male" id="connector99">
+   <description>5V</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector99pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector99pin" terminalId="connector99terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+  
+  <connector name="GND" type="male" id="connector98">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector98pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector98pin" terminalId="connector98terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+  
+  <connector name="3V3" type="male" id="connector97">
+   <description>3V3</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector97pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector97pin" terminalId="connector97terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+  
+  <connector name="SCK" type="male" id="connector4">
+   <description>SCK</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector4pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector4pin" terminalId="connector4terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+  
+  <connector name="A3" type="male" id="connector3">
+   <description>A3</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector3pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector3pin" terminalId="connector3terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+  
+  <connector name="A2" type="male" id="connector2">
+   <description>A3</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector2pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector2pin" terminalId="connector2terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+  
+  <connector name="A1" type="male" id="connector1">
+   <description>A3</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector1pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector1pin" terminalId="connector1terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+  
+  <connector name="A0" type="male" id="connector0">
+   <description>A3</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector0pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector0pin" terminalId="connector0terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+  
+  <connector name="MISO" type="male" id="connector5">
+   <description>MISO</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector5pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector5pin" terminalId="connector5terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+  
+  <connector name="MOSI" type="male" id="connector6">
+   <description>MOSI</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector6pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector6pin" terminalId="connector6terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+  
+  <connector name="SS" type="male" id="connector7">
+   <description>SS</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector7pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector7pin" terminalId="connector7terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+  
+  <connector name="SDA" type="male" id="connector8">
+   <description>SDA</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector8pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector8pin" terminalId="connector8terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+  
+  <connector name="SCL" type="male" id="connector9">
+   <description>SCL</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector9pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector9pin" terminalId="connector9terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+  
+  <connector name="10" type="male" id="connector10">
+   <description>10</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector10pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector10pin" terminalId="connector10terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+  
+  <connector name="RX" type="male" id="connector20">
+   <description>RX</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector20pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector20pin" terminalId="connector20terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+  
+  <connector name="TX" type="male" id="connector21">
+   <description>TX</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector21pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector21pin" terminalId="connector21terminal"/>
+    </schematicView>
+   </views>
+  </connector>
+
+ </connectors>
+</module>
